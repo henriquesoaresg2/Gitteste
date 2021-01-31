@@ -1,4 +1,4 @@
-extends StaticBody2D
+extends Node2D
 
 signal acendeLuz(estaSelecionado)
 onready var luzSelecao = get_node("Light2D")

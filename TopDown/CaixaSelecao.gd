@@ -28,13 +28,15 @@ func CriaCaixa():
 		set_end(Vector2(0,0))
 
 func SelecionaObjs():
+	print("Entrou na funcao")
 	var selfRect = get_rect()
 	for objeto in objSelecionaveis:
-		if objeto.get_class() == Spatial:
+		if objeto is Spatial:
 			print("is Spatial")
 			objeto.emit_signal("acendeLuz", selfRect.has_point(camera.unproject_position(objeto.transform().origin)))
-		elif objeto.get_class() == CanvasItem:
+		elif objeto is CanvasItem:
 			print("is CanvasItem")
-			objeto.emit_signal("acendeLuz", selfRect.has_point(objeto.get_pos()))
+			objeto.get_
+			#objeto.emit_signal("acendeLuz", selfRect.has_point()
 		else:
 			print("Nadaaaaa")
