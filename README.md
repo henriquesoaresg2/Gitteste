@@ -1,2 +1,2 @@
 Gitteste
-#Espaço para projetos e babaquiçes.
+#Aprendendo a utilizar o git.
