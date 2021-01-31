@@ -1,0 +1,9 @@
+#Criado por HenriqueS
+extend control
+
+var controle_de_versao
+var numero_versao = "0.01"
+
+func _ready():
+    controle_de_versao = "versao "+numero_versao
+    print(controle_de_versao)
