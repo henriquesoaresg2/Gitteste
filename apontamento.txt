@@ -1,0 +1,5706 @@
+09/12
+
+08:40 banheiro 08:45
+08:45 968688 - review
+09:49 ATENDIMENTO NOVO TEMPO 981168 10:22
+10:22 REVIEW 968688 
+10:31 review 979138
+10:48 review 912212/903030
+11:00 retrospectiva contabil
+11:29 analise de os 978730
+12:03 almoço
+
+13:25 - ver ponto
+13:31 - analise os 978730
+13:44 - review 912212/903030
+14:26 - agua
+14:32 - review 912212/903030
+14:40 - analise de os 978730
+15:40 - analise os 981179
+15:51 - analise de os 978730
+16:40 - levantamento requisito 979362
+16:56 - café 
+17:09 - levantamento requisito 979362
+17:55 - ajuda suporte 
+18:25 - finish
+
+
+10/12
+08:10 atraso
+08:14 requisito 979362
+08:21 daily scrum
+08:28 reuniao vr
+10:10 atendimento GBS
+10:32 requisito 979362
+10:41 auxilio desenvolvimento
+10:53 analise de OS/atendimento 981481 
+11:10 auxilio desenvolvimento
+11:43 email suporte 981450 
+11:51 atendimento GBS
+12:03 almoco
+
+13:28 - ATENDIMENTO 981481
+13:41 - analise de os 981727
+14:00 - DOCUMENTACAO 981450
+14:57 - servidor travado GBS 981819
+15:20 - review 980609
+15:57 - nivel 2 - akio 
+16:05 - cafe
+16:19 - review 980609
+17:23 - analise de os 981280
+17:53 - ajuda suporte jonatas
+18:09 fim
+
+11/12
+08:00 atraso
+08:07 analise de os 981280
+08:20 daily scrum
+08:30 levantamento de requisito 981280 
+09:14 levantamento de requisito 981727
+11:30 analise de os 982124
+11:54 levantamento de requisito 982124
+12:02 almoço
+
+13:30 apontamento
+13:35 analise de os 976294
+14:06 review 980770
+14:21 ajuda suporte - igo
+14:50 review 980770
+15:02 review 980609
+15:32 analise de os 976294
+16:24 banheiro
+16:29 analise de os 976294
+16:47 café
+16:59 levantamento de requisito 950207
+17:23 cadastrar biometria
+17:28 levantamento de requisito 950207
+
+12/12
+08:00 analise de Os 980609
+08:03 daily scrum
+08:09 analise de os 980609
+08:20 levantamento de requisito 982372
+08:33 review 980609
+08:40 analise de os 979625
+09:07 levantamento de requisito 979625
+09:35 analise de os 979621 
+09:45 banheiro
+09:50 analise de os 979621
+10:00 levantamento de requisito 979621
+10:37 ajuda suporte rogerio giga
+11:06 analise de os 976294
+11:50 atendimento gbs 
+12:05 almoço
+
+13:30 arrumando mesa 
+13:34 atendimento gbs
+13:46 levantamento de requisito 979621
+14:06 documentacao - email suporte
+14:37 review 982372
+14:47 apontamento de os 
+14:56 review 978904
+16:03 ajuda naiara/akio
+16:17 cafe
+16:28 ajuda akio
+16:45 review 913155
+17:41 review / requisito 978904
+
+13/12
+08:00 levantamento de requisito 981280
+08:13 daily scrum
+08:23 levantamento de requisito 982781
+08:59 ajuda suporte jonatas
+09:26 ver os contail sizing
+10:18 atualzair norberto
+10:39 ajuda jonatas / everton c
+12:07 ALMOCO
+
+13:30 reuniao
+14:22 analise de os - 982775 mercado da casa
+14:30 separando os sizing
+14:51 levantamento de requisito 982781
+15:12 analise de os - 982775 mercado da casa 
+15:37 ligar no norberto atendimento 
+15:42 analise de os - 982775 mercado da casa 
+16:12 ligar no norberto atendimento 
+16:13 cafe
+16:27 analise de os 966272
+16:44 ligar no norberto atendimento 956867
+17:57 apontamento
+
+16/12
+08:00 atraso
+08:03 sp1 contabil 
+08:37 analise de os 979979
+09:40 analise de os 983105
+11:08 retrospectiva
+11:28 banheiro
+11:32 levantamento de requisito 983382
+11:56 apontamento
+
+13:30 review 983105
+14:18 analise de os 980188/974984
+15:00 analise de os 979979
+16:17 café
+16:31 analise de os 979979
+17:14 ajuda joao rizzo
+17:20 analise de os 979979
+
+17/12
+08:00 atraso
+08:11 daily scrum
+08:24 levantamento de requisito 976368
+08:50 analise de os 983105
+09:01 reuniao vr
+09:54 atendimento
+10:22 requisito de os 983105
+11:33 banheiro
+11:37 ver os do contabil 976368
+
+13:30 levantamento de requisito 976368 
+14:00 analise de os 974984
+15:20 atualizacao cliente MC consultoria 974618/960110
+15:25 analise de os 974984
+15:35 levantamento de requisito 968249
+16:18 café
+16:29 levantamento de requisito 983867
+17:55 review 983585
+18:05 finish
+
+18/12
+08:00 atraso
+08:07 review 983585
+08:46 analise de os 983554
+10:19 banheiro
+10:24 analise de os 983554
+12:00 almoço
+
+13:30 analise de os 984103
+14:03 levantamento de requisito 983877
+14:25 levantamento de requisito 984153/984155 
+14:44 banheiro
+14:49 analise de os 984103
+15:29 auxilio suporte henriques
+15:44 analise de os 984103
+16:00 analise de os 974984
+16:12 cafe
+16:18 analise de os 974984
+16:30 maiko
+16:59 henriques
+17:27 atendimento sup maringa 
+18:00 apontamento de os
+
+19/12
+08:00 atraso
+08:09 verificando os 983550
+08:25 atendimento gbs
+08:30 falar com cassiano
+08:48 atendimento gbs (rocket)
+09:10 auxilio suporte henriques
+09:20 auxilio suporte eduardo hp 
+09:50 levantamento de requisitos 984362
+10:22 analise de os michel 984413
+11:06 auxilio desenvolvimento 
+11:35 banheiro 
+11:38 analise de os michel 984413
+
+13:30 levantamento de requisito 984413
+14:12 levantamento de requisito 984264
+16:23 cafe
+16:37 atendimento gbs 984609
+16:40 review 984362
+16:43 atendimento gbs 984609
+17:27 review 984362
+17:40 levantamento de requisito 984153
+17:54 review 984362
+18:07 apontamento horas 
+
+20/12
+08:00 atraso
+08:21 daily scrum
+08:28 levantamento de requisitos 984672
+09:20 levantamento de requisitos 984155
+10:20 levantamento de requisitos 983841
+
+13:30 reuniao qualidade 
+14:21 analise de os 984455
+14:50 auxilio jonatas
+14:59 analise de os 984455
+15:32 levantamento de requisitos os 980188
+15:56 levantamento de requisitos os 976326
+16:17 levantamento de requisitos os 976360
+16:29 cafe
+16:43 pontuar os sizing
+17:40 levantamento de requisitos os 980188
+18:05 apontamento
+
+26/12
+07:55 verificando as os 
+08:08 levantamento de requisitos 980188
+08:26 analise de os 985318
+08:40 review 912212
+10:11 review 977101
+10:45 review 981959/973258
+11:07 banheiro
+11:13 review 981959/973258
+11:30 levantamento de requisito 985692
+11:42 analise de os 979979
+12:02 almoço
+
+13:30 analise de os 979979
+13:56 analise de os 984155
+14:45 levantamento de requisito 984153
+16:32 cafe
+16:45 levantamento de requisito 985783
+17:05 analise de os 979979
+17:25 auxilio lucas ramos
+17:49 analise de os 958100
+18:00 apontamento
+
+27/12
+07:59 organizacao ambiente
+08:07 analise de OS 982484
+09:00 auxilio suporte mamede
+09:12 analise de os 982484
+09:20 levantamento de requisito 982484
+10:04 banheiro
+10:10 analise de os 985741
+10:20 atendimento sup maringa
+10:58 analise de os 985741
+11:15 analise de os 980188
+11:27 atendimento sup maringa 
+11:50 levantamento de requisito 985891
+12:03 almoco
+
+13:30 reuniao
+14:11 analise de os 980188 
+14:20 auxilio ao suporte - henriques
+14:35 analise de os 985741
+14:58 pontuar as os contabil
+16:13 lucax
+16:28 cafe
+16:41 review 985891
+17:00 separar os contabil proxima semana
+17:26 review 984672
+17:51 review 968249
+18:04 apontamento 
+18:11 fim
+
+30/12
+07:55 organizando ambiente
+08:00 reuniao sp1
+08:31 review 985891
+08:52 review 968249
+09:10 analise de os 985355
+09:25 levantamento de requisito 986224
+09:57 analise de os 985879
+10:14 levantamento de requisito 985355
+10:30 analise de os 985879
+11:00 banheiro
+11:05 reuniao retrospectiva 
+11:30 review 981959/973258/968688
+12:02 almoco
+
+13:30 levantamento de requisito 986294
+13:41 review 981959/973258/968688
+14:11 review 979621
+14:28 review 983877
+15:10 levantamento de requisito 986349
+15:33 review 981959/973258/968688
+16:06 levantamento de requisito 986371
+16:11 cafe
+16:26 levantamento de requisito 986371
+16:46 analise de os 985355
+16:51 analise de os 986347
+16:55 levantamento de requisito 986394
+17:20 auxilio suporte rogerio
+18:34 finish
+
+31/12
+08:00 nota giga
+08:40 auxlio suporte henriques
+08:50 review os 985891
+09:02 levantamento de requisito 986394
+09:07 reuniao - verificar os pendentes com a sonia
+09:44 levantamento de requisito 986394
+09:49 review 930657
+10:35 auxilio suporte reinaldo
+10:44 review 930657
+11:55 banheiro
+12:00 almoço
+
+13:30 review 930657
+13:48 levantamento de requisito 986521
+14:02 levantamento de requisito 986526
+14:22 cafe/agua
+14:25 analise de os 984497
+14:47 analise de os 986482
+15:39 levantamento de requisito 986521
+16:46 cafe 
+16:59 levantamento de requisito 986521
+17:27 review 986371
+18:01 apontamento
+
+02/01
+08:00 portão SG fechado
+08:15 analise de os 984628
+10:40 atendimento 986482
+10:50 review 985692
+11:08 levantamento de requisito 965877
+11:22 auxilio suporte smaily
+12:03 almoco
+
+13:30 analise de os 985546
+13:40 auxilio suporte smaily
+13:44 levantamento de requisito 965877
+13:59 auxilio suporte smaily
+14:58 levantamento de requisito 965877
+15:49 levantamento de requisito 983653
+16:12 banheiro
+16:17 analise de os 985546
+16:25 auxilio suporte smaily
+17:41 analise de os 985546
+18:04 apontamento
+
+03/01 
+08:00 analise de os 985546
+08:45 reuniao pontuar os contabil
+09:30 banheiro
+09:34 planejamento os contabil 
+09:59 review 979625
+10:20 auxilio suporte - renan comercial cloud
+10:40 levantamento de requisitos 984795
+11:09 analise de os 986224
+11:11 atendimento 986908
+11:17 levantamento de requisitos 984795
+12:02 almoço
+
+13:30 reuniao
+13:52 abrir projeto novo
+14:36 atendimento 986482 - nao atende
+14:39 levantamento de requisito 984795
+16:01 banheiro
+16:04 levantamento de requisito 984795
+16:24 cafe
+16:36 levantamento de requisito 984795 
+17:23 auxilio henriques
+17:29 levantamento de requisito 984795
+18:00 auxilio henriques
+18:16 apontamento
+18:20 fim
+
+06/01 
+07:58 reuniao sp1
+08:30 analise de os 987189
+08:35 auxilio naiara
+08:44 analise de os 987189
+09:05 atendimento 986482
+09:08 levantamento de requisito 984795
+09:25 banheiro
+09:31 levantamento de requisito 984795
+09:40 auxilio everton c os 987264
+11:11 retrospectiva
+11:25 release notes
+12:03 almoço
+
+13:30 release notes
+13:35 levantamento de requisito 984795
+14:15 review 979625
+15:01 review 979362
+16:05 analise de os 986728
+16:09 cafe
+16:25 atendimento GBS
+16:42 analise de os 986728
+17:30 review 979625
+17:40 atendimento gbs  - para versao atualizar sistema
+18:07 apontamento
+18:14 fim
+
+07/01 
+08:00 levantamento de requisito 987594
+08:06 review 973103 
+08:30 reuniao 
+10:00 review 979362
+10:15 auxilio suporte gisely
+10:20 review 979362
+10:32 banheiro 
+10:37 review 973103
+11:16 atendimento 986482
+11:24 review 983867
+11:41 apontamento
+11:46 almoco
+
+13:30 particular
+14:05 review 983867
+15:24 auxilio lucas os 987390
+15:38 review 974481
+16:17 csfé
+16:32 review 974481
+17:13 analise de os 987390
+18:00 apontamento 
+18:02 fim
+
+08/01
+08:00 review 974481
+09:14 levantamento de requisito 974481 
+09:48 analise de os 987390
+10:09 levantamento de requisito - gbs 988149
+10:32 analise de os 987390
+11:06 levantamento de requisito 987390
+11:17 auxilio mauricio	
+11:34 auxilio desenvolvimento Vanderson / Ana
+12:01 almoco
+
+13:30 levantamento de requisito 987390
+13:54 banheiro
+14:00 review 983867
+14:30 review 986526
+14:57 review 987242
+16:24 café
+16:35 review 987242
+17:31 auxilio mauricio
+18:10 apontamento
+18:18 fim
+
+09/01
+08:00 atraso
+08:10 levantamento de requisito 987242
+08:27 levantamento de requisito 984785
+08:48 auxlio jonatas 
+09:12 abrir os 988496
+09:19 levantamento de requisito 984785
+11:12 banheiro
+11:19 levantamento de requisito 984785
+12:03 almoço
+
+13:28 analise de os 988465
+14:46 levantamento de requisito 988465
+14:57 auxilio suporte railson - atendimento 988622
+16:28 review 988149
+16:31 atendmento pardal 988622
+16:47 cafe
+17:00 auxilio gustavo
+17:07 review 936774  
+17:52 review 988378 (988465)
+17:58 apontamento 
+18:03 fim
+
+10/01 
+08:00 atraso
+08:11 review 988378
+08:44 levantamento de requisito 986347
+09:12 atendimento 986482 - nao atendeu
+09:15 review 950372
+09:46 sizing
+10:09 planejamento projeto sp1
+10:18 levantamento de requisito 989002
+10:38 auxilio suporte angelica
+11:00 levantamento de requisito 989002
+11:02 atendimento pardal
+11:20 levantamento de requisito 989002
+11:39 analise de os 962854
+11:42 analise de os 893082
+11:43 analise de os 892557
+11:44 analise de os 891702
+11:47 review 987774/983022
+12:01 almoco
+
+13:30 reuniao
+14:11 cafe/agua
+14:14 review 987774/983022
+16:00 auxilio suporte henrique / eduardo filipin
+17:11 review 987774/983022
+18:27 apontamento
+18:35 fim
+
+13/01
+08:00 sp1 
+08:27 review 988378
+09:02 analise de os 988882
+10:20 review 989002
+10:52 review 983840
+11:01 retrospectiva
+11:18 auxilio jonatas
+11:46 review 983840
+12:02 almoço
+
+13:30 review 983840
+14:38 auxilio henriques
+14:47 review 983840
+15:15 atendimento 986482
+15:18 levantamento de requisito 984795
+16:21 café
+16:35 levantamento de requisito 984795
+17:50 banheiro
+17:55 analise de os 846186
+18:01 apontamento
+18:06 fim
+
+14/01
+07:55 analise de os 989099
+08:09 review 988630
+08:54 reuniao VR
+10:24 auxilio desenvolvimento vanderson
+10:49 review 988630
+11:53 auxilio mauricio
+12:06 almoço
+
+13:30 review 988630
+14:20 analise os 989982
+16:14 levantamento de requisito 990160
+16:27 analise de os 988731
+16:43 cafe
+16:53 analise de os 988731
+17:15 analise de os 990160 
+18:00 apontamento 
+18:04 fim
+
+15/01
+08:00 atraso
+08:04 atendimento 986482
+08:10 analise de os 989663
+08:34 atendimento 986482
+08:45 levantamento de requisito 989663 
+09:10 levantamento de requisito 986482
+11:30 auxilio desenvolvimento kajihara
+11:41 banheiro
+11:46 analise de os 986678
+12:02 almoço
+
+13:30 analise de os 986678
+14:10 auxilio gisely 
+14:30 analise de os 986678
+14:44 analise de os 988279
+15:15 analise de os 990381
+16:03 analise de os 990160
+16:32 cafe
+16:47 analise de os 990160
+17:30 analise de os 990381
+18:05 apontamento
+18:13 fim
+
+16/01
+08:00 analise de os 990381
+08:38 levantamento de requisito 990381
+10:08 analise de os 989089
+10:50 levantamento de requisito 969044 
+10:59 banheiro
+11:03 levantamento de requisito 969044 
+12:06 almoço
+
+13:30 levantamento de requisito 969044
+15:00 analise de os 990160
+16:54 cafe 
+17:08 review 983666
+18:06 fim
+
+17/01
+08:00 organizacao ambiente
+08:07 review 983666
+08:44 levantamento de requisitos 969044
+09:11 analise de os 988731
+10:20 banheiro
+10:25 analise de os 988731
+10:51 sizing
+11:20 levantamento de requisito 969044/991161
+11:30 planejamento do projeto sp1
+12:06 almoço
+
+13:30 reunião
+14:13 cafe/agua
+14:15 levantamento 988731
+15:38 review 986294
+16:10 review 987242
+16:23 cafe
+16:35 analise de os 969230
+16:45 review 987242
+17:38 review 960999/973228/989419 
+18:06 apontamento
+18:15 fim
+
+20/01
+08:00 organizacao do ambiente
+08:05 sp1
+08:46 review 989419
+09:47 levantamento de requisito 991514
+10:11 review 989419
+10:26 levantamento de requisito 991554
+10:51 levantamento de requisito 991580
+11:01 retrospectiva
+11:13 levantamento de requisito 991580
+11:58 apontamento 
+12:01 almoco
+
+13:30 atendimento 989099 
+13:40 review 987242
+14:14 review 969230
+14:54 levantamento de requisito 991677
+15:07 atendimento 986482 - nao atende
+15:10 review 987959
+15:37 review 965877
+16:05 levantamento de requisito 991736
+16:21 cafe
+16:37 levantamento de requisito 991736
+17:10 atendimento 989099
+17:30 analise de os 989099
+18:01 apontamento
+18:06 fim
+
+21/01
+07:58 review 884761
+08:45 levantamento de requisito 991832
+09:30 review 936554/987242
+09:57 analise de os 991154
+10:11 reuniao vr
+11:44 analise de os 884761
+12:04 almoco
+
+13:30 analise de os 884761
+15:30 levantamento de requisito 992089 
+15:53 levantamento de requisito 992105
+16:04 auxilio lucas amadeu
+16:07 review 987242
+16:11 auxilio lucas amadeu
+16:37 review 987242
+16:46 cafe 
+17:00 review 987242
+17:24 review 986394
+17:32 levantamento de requisito 992165
+18:06 apontamento
+18:12 fim
+
+22/01
+08:00 treinamento controle patrimonial
+09:40 auxilio marcos
+09:45 lancando treinamentos
+10:00 levantamento de requisito 992165
+10:10 auxilio lucas henrique
+10:17 analise de os 990160
+10:23 auxilio reinaldo
+11:23 auxilio lucas henrique
+11:26 banheiro
+11:30 auxilio lucas henrique
+11:35 review 953716
+12:01 almoco
+
+13:30 review 953716
+13:57 review 943283
+14:46 auxilio suporte henriques
+14:52 review 943283
+15:04 analise de os 992171
+15:11 analise de os 992186
+15:19 levantamento de requisito 992423
+15:41 analise de os 991239
+16:00 cafe
+16:15 analise de os 991239
+18:05 apontamento
+18:12 fim
+
+23/01
+08:00 atraso
+08:06 analise de os 992171
+08:34 levantamento de requisito 992630
+08:56 levantamento de requisito 992171
+09:23 atendimento 991239
+09:30 review 984785
+09:40 analise de os 991736
+10:07 auxilio marcos
+10:16 analise de os 989099
+10:26 review 984785
+11:50 auxilio eduardo f
+12:15 almoco
+
+13:30 atraso - particular
+14:26 analise de os 964973
+14:30 review 984785
+15:35 levantamento de requisito 992089
+15:50 analise de os 990160
+16:45 auxilio joao rizzo
+16:52 review 984785
+17:20 auxilio joao rizzo
+17:40 review 984785
+18:03 fim
+
+24/01
+08:00 atraso
+08:14 analise de os 988102
+08:24 review 984785
+09:20 auxilio joao carlos
+09:40 auxilio desenvolvimento claudinei 990160
+10:45 levantamento de requisito 992922
+12:03 almoco
+
+13:30 reuniao
+14:15 levantamento de requisito 992922
+15:53 sizing
+16:10 review 990160 
+18:24 apontamento 
+18:30 fim
+
+27/01
+08:00 atraso
+08:10 sp1
+08:52 analise de os 993249
+09:00 review 984785
+10:20 analise de os 992634
+10:30 analise de os 992971
+10:40 analise de os 993432
+11:05 analise de os 992978
+11:12 analise de os 990339
+11:26 retrospectiva
+11:47 review 990160
+12:03 almoco
+
+13:33 review 990160 
+14:03 review 990381
+14:25 analise de os 984795
+15:00 review 990160
+16:38 analise de os 990381
+16:49 levantamento de requisito 993013
+16:55 auxilio suporte eduardo f
+17:38 levantamento de requisito 993685
+17:58 banheiro
+18:01 levantamento de requisito 993013
+18:15 apontamento
+18:20 fim
+
+28/01
+08:00 analise de os 990160
+08:12 review 989663
+09:04 reuniao vr
+10:30 review 989663
+10:45 auxilio patricia 
+10:53 auxilio eduardo f
+11:05 review 989663
+11:44 banheiro
+11:48 levantamento de requisito 994013
+12:02 almoco
+
+13:30 levantamento de requisito 994013
+13:51 review 992630
+14:15 review 982484
+14:38 feedback
+15:40 auxilio ao desenvolvimento Rafael
+15:46 levantamento de requisito 994058
+16:34 auxilio suporte eduardo f.
+16:44 cafe
+16:59 auxilio suporte eduardo f.
+17:23 analise de os 993685
+17:39 review 991449
+17:48 auxilio desenvolvimento cassiano
+18:09 fim
+
+29/01 
+08:00 review 991449
+09:05 apontamento
+09:14 review 991449
+10:50 review 990160
+11:16 review 992630
+11:29 levantamento de requisito 993613
+12:20 almoco
+
+13:30 atraso
+13:36 levantamento de requisito 993613
+14:26 auxilio rogerio
+14:48 analise de os 994166 
+15:00 levantamento de requisito 994166
+15:53 levantamento de requisito 993613
+16:15 analise de os 983653
+16:25 review 927587
+16:42 café
+16:51 review 927587
+17:16 analise de os 993233
+17:23 analise de os 915233
+18:10 fim
+
+30/01
+08:00 atraso
+08:13 analise de os 993233
+09:04 review 927587
+09:20 auxilio desenvolvimento cassiano
+09:34 review 927587 
+09:59 review 968243
+10:17 review 876047
+11:15 auxilio desenvolvimento kajiahara
+11:20 auxilio desenvolvimento cassiano
+11:30 auxilio desenvolvimento rafael
+11:39 review 876047
+11:42 analise de os 994166
+12:01 almoco
+
+13:30 levantamento de requisito 994710
+14:03 reuniao norberto
+14:55 analise de os 993233
+15:32 reuniao norberto
+17:25 review 968243
+17:40 levantamento de requisito 994751
+18:00 levantamento de requisito 994710 
+18:32 fim
+
+31/01
+08:00 atraso
+08:04 apontamento
+08:21 levantamento de requisitos - os norberto 
+11:11 banheiro
+11:15 levantamento de requisitos - os norberto
+12:05 almoço
+
+13:30 levantamento de requisitos - os norberto
+15:43 banheiro
+15:51 planejamento das horas
+16:19 cafe
+16:25 apontamento
+16:30 sizing
+17:25 atendimento
+17:50 planejamento sp1
+18:00 review 968243
+18:07 apontamento
+
+01/02
+10:02 review 994013
+10:32 review 927587
+10:44 review 876047
+11:22 auxilio henriques
+11:57 review 876047
+12:15 review 992922
+12:50 review 991736
+13:10 analise de os 992236
+14:00 apontamento
+14:02 fim
+
+03/02
+08:00 organizacao de ambiente
+08:08 levantamento de requisito 992236
+08:20 sp1
+08:45 organizacao de ambiente - trocar de mesa 
+09:25 reuniao vr
+09:38 levantamento de requisito 992236
+10:47 banheiro
+10:51 auxilio jonatas
+11:02 retrospectiva
+11:19 review 983841
+11:30 auxilio akio
+12:00 apontamento
+12:03 almoço
+
+13:30 review 983841
+14:00 review 894984
+14:57 auxilio akio
+15:18 review 990802
+15:40 review 911325 
+16:05 review 857465
+16:10 auxilio smaily 
+17:05 café
+17:13 analise de os 991710
+17:30 auxilio smaily
+18:00 apontamento
+
+04/02 
+08:00 atraso
+08:12 analise de os 994985
+08:20 reuniao vr 
+09:35 auxilio desenvolvimento Rafael
+09:42 analise de os 991710
+11:04 analise de os 995241
+12:03 almoço
+
+13:25 analise de os 995241
+14:29 levantamento de requisito 995241
+14:40 release notes 
+15:08 levantamento de requisito 995241
+15:35 review 985622
+16:44 review 992089
+16:59 cafe
+17:09 review 992089
+17:34 levantamento de requisito 993233
+17:50 anaise de os 996243
+18:06 apontamento
+18:10 fim
+
+05/02
+08:00 atraso
+08:10 levantamento de requisito 996243
+08:40 analise de os 955978
+09:25 review 994013
+09:37 analise de os 994969
+10:00 levantamento de requisito 994969 
+11:14 banheiro
+11:19 auxilio everton c
+11:57 analise de os 994966 
+12:01 almoço
+
+13:30 analise de os 994966
+15:02 levantamento de requisito 996545
+15:42 levantamento de requisito 996572
+16:38 café
+16:50 analise de os 996545
+16:56 review 992165
+17:55 levantamento de requisito 994710
+18:20 fim 
+
+06/02
+08:00 atraso
+08:11 auxilio angelica
+08:25 levantamento de requisito 994710
+08:38 auxilio patricia
+08:50 levantamento de requisito 994710
+10:07 auxilio alessandro
+10:22 analise de os 994981
+10:47 analise de os 996545
+10:54 banheiro
+10:57 levantamento de requisito 996545
+11:47 review 992165
+12:04 almoço
+
+13:30 atraso
+13:45 review 992165
+15:43 review 996982
+16:32 café
+16:42 auxilio desenvolvimento eliseu 
+17:14 auxilio smaily
+18:00 apontamento
+18:15 fim
+
+07/02
+08:00 atraso
+08:15 levantamento de requisito 996019
+08:32 analise de os 993233
+10:28 analise de os 996920
+11:18 banheiro
+11:22 analise de os 996920
+12:05 auxilio henriques
+12:40 almoço
+
+13:30 reuniao
+14:22 cafe/agua
+14:25 analise de os 996920
+14:35 atendimento 997088
+15:16 atendimento 997378
+15:35 levantamento de requisito 996920
+16:09 auxilio jonatas
+18:07 fim
+
+10/02
+08:00 organizacao do ambiente
+08:05 sp1
+08:23 conferindo ponto/apontamento
+08:37 analise de os 994966
+10:37 banheiro
+10:41 analise de os 994966
+11:00 retrospectiva
+11:35 analise de os 994966
+12:03 almoço
+
+13:30 analise de os 994966
+14:43 levantamento de requisito 997863
+14:56 analise de os 997827
+18:03 fim
+
+11/02
+08:00 atraso
+08:10 levantamento de requisito 997827
+10:29 banheiro
+10:33 analise de os 997253
+10:45 auxilio Thaina (norberto)
+12:06 almoco
+
+13:30 atraso
+13:34 review 997827
+14:34 analise os 997253
+16:27 review 994981
+17:00 levantamento de requisito 998375
+17:30 levantamento de requisito 998389
+17:50 review 994981
+18:26 fim 
+
+12/02
+08:00 atraso
+08:10 review 994963
+08:56 analise os norberto
+09:21 auxilio jonatas
+09:26 auxilio angelica
+09:39 levantamento de requisito 997211
+10:59 auxilio jonatas
+11:45 auxilio desenvolvimento vanderson
+12:05 almoço
+
+13:30 analise de os 998530
+13:40 analise de os 996791
+14:00 reuniao jadeir
+14:28 levantamento de requisito 997211
+15:15 reuniao norberto
+15:40 levantamento de requisito 997211
+16:04 café
+16:17 levantamento de requisito 997211
+16:25 auxilio desenvolvimento kajihara
+16:50 analise de os 997253
+18:04 fim
+
+13/02
+08:00 atraso
+08:29 organizacao do ambiente
+08:35 reuniao vr
+09:35 analise de os 997253
+09:50 analise de os 994978
+10:30 analise de os 997253
+12:01 almoço
+
+13:30 levantamento de requisito 998032
+15:30 banheiro
+15:35 levantamento de requisito 998032
+16:26 café
+16:40 auxilio desenvolvimento kajihara
+16:50 levantamento de requisito 998032
+17:30 auxilio desenvolvimento arielson
+17:40 analise de os 997253
+18:13 fim
+
+14/02
+08:00 atraso
+08:08 analise de os 997253
+08:22 analise de os 996690
+09:27 banheiro
+09:32 analise de os 996690
+11:50 auxilio angelica
+12:06 almoco
+
+13:30 reuniao
+14:25 levantamento de requisito 998727
+15:05 analise de os 999022
+16:31 cafe 
+16:42 analise de os 999022 
+17:04 sizing
+17:20 projeto contabil
+17:40 apontamento
+17:55 auxilio henriques
+18:15 analise de os - norberto
+18:27 fim
+
+15/02
+08:00 apontamento
+08:13 review 994978
+08:59 review 969044
+10:10 levantamento de requisito 999582
+10:57 review 996982
+11:38 analise de os 993846
+12:01 apontamento 
+
+17/02
+08:00 organizacao do ambiente
+08:05 sp1
+08:30 levantamento de requisito 996982
+08:40 auxilio desenvolvimento angelo
+08:45 levantamento de requisito 996982 
+08:51 analise de os 993846
+11:02 retrospectiva
+11:30 auxilio jonatas
+11:47 atendimento gbs
+11:50 analise de os 993846
+12:05 almoço
+
+13:30 auxilio suporte carlos demetrio
+14:14 analise de os 993846
+16:22 analise de os 991463 
+16:24 analise de os 996668
+16:30 analise de os 988291
+16:39 café
+16:48 levantamento de requisito 999878
+17:12 analise de os Sonia
+17:40 auxilio angelica
+18:00 levantamento de requisito 980718
+18:22 fim
+
+18/02
+08:00 atraso
+08:03 levantamento de requisito 980718
+08:36 reuniao vr
+09:15 levantamento de requisito 998032
+10:30 auxilio jonatas
+11:00 auxilio sandro
+12:09 almoço
+
+13:30 levantamento de requisito 1000140
+14:00 auxilio sandro
+14:20 levantamento de requisito 1000140
+15:11 analise de os 1000273
+15:30 auxilio angelica
+15:40 analise de os 1000273
+16:23 café
+16:38 auxilio jonatas
+16:45 levantamento de requisito 1000273
+17:50 auxilio Sandro
+17:58 apontamento 
+18:15 fim
+
+19/02
+08:00 atraso
+08:11 levantamento de requisito 1000222
+09:00 levantamento de requisito 993846
+12:03 almoço
+
+13:30 levantamento de requisito 993846
+17:04 café
+17:17 levantamento de requisito 1000823
+17:58 apontamento
+18:00 fim
+
+20/02
+08:00 atraso
+08:08 levantamento de requisito 1000823
+12:00 almoço
+
+13:30 levantamento de requisito 1000823
+16:06 café
+16:20 levantamento de requisito 1001090
+17:30 banheiro
+17:35 levantamento de requisito 1001090
+17:57 apontamento
+18:00 fim
+
+21/02
+08:00 auxilio Thaina
+08:17 levantamento de requisito 1001090
+11:11 analise de os 996909
+12:02 almoço
+
+13:28 reuniao 
+14:20 analise de os 1001090
+14:30 receita estadual 
+16:00 café
+16:15 levantamento de requisito 1001090 
+18:23 fim
+
+26/02 
+08:00 atraso
+08:08 apontamento
+08:17 sp1
+08:38 levantamento de requisito 999054
+08:52 analise de os 996909
+09:03 reuniao vr
+11:40 banheiro
+11:45 analise de os 996909
+12:04 almoço
+
+13:38 levantamento de requisito 996909
+14:23 levantamento de requisito 1001090
+14:32 banheiro 
+14:37 levantamento de requisito 1001090
+14:57 analise de os 1001922
+16:22 café
+16:32 auxilio angelica
+16:40 auxilio rafael/ eliseu / kajihara 
+17:27 banheiro
+17:32 analise de os 993846 
+17:38 analise de os 1001090
+18:06 fim
+
+27/02
+08:00 organizacao ambiente
+08:05 release notes
+08:50 analise de os 1001090
+11:37 levantamento de requisito 1001735
+12:05 almoço
+
+13:30 levantamento de requisito 1001735
+13:38 receita estadual
+15:20 reuniao gustavo 1001090
+15:40 auxilio kajihara 997211
+16:03 café
+16:15 auxilio angelica / thaina
+16:44 levantamento de requisito 1001735
+17:20 banheiro
+17:24 analise de os 1000666/877962
+17:44 analise de os 935466
+18:10 fim
+
+28/02
+08:00 atraso
+09:15 auxilio thaina 
+09:22 analise de os 999340
+11:01 review 999582
+11:13 analise de os 1001090
+12:05 almoço
+
+13:30 reuniao qualidade
+14:09 planejamento de horas
+14:50 auxilio angelica
+15:13 levantamento de requisito 935466
+16:15 café
+16:22 levantamento de requisito 935466
+17:12 reuniao gustavo
+17:16 sizing
+18:28 fim
+
+02/03
+08:00 atraso
+08:08 sp1
+08:40 levantamento de requisito 1003099
+09:32 analise de os ST
+10:16 analise de os 1001020
+10:42 reuniao vr
+11:04 retrospectiva
+11:37 banheiro
+11:42 levantamento de requisito 1001020
+12:05 almoço
+
+13:30 levantamento de requisito 1001020
+14:20 analise de os 1001854
+14:40 banheiro
+14:45 analise de os 1001854
+15:19 analise de os 1000082
+16:00 levantamento de requisito 1003575
+16:46 café
+16:59 apontamento
+17:09 levantamento de requisito 1003575
+18:06 fim
+
+03/03
+08:00 atraso
+08:15 levantamento de requisito 1003575
+08:40 reuniao vr
+10:45 auxilio angelica
+10:48 banheiro
+10:52 levantamento de requisito 1003575
+12:05 almoço
+
+13:30 review 1002600
+13:56 review 999582
+14:41 auxilio douglas 
+14:58 review 996982
+16:09 levantamento de requisito 1001574
+16:44 café
+16:54 levantamento de requisito 1001574
+17:55 analise de os 1003651
+18:05 fim
+
+04/03 
+08:00 atraso
+08:11 apontamento
+08:21 analise de os 1003651
+11:22 banheiro
+11:27 auxilio henriques
+11:31 analise de os 1003651
+12:03 almoço
+
+13:30 analise de os 1003651
+14:50 auxilio cassiano
+15:15 analise de os 1003651
+16:40 café
+16:50 analise de os 1003651
+17:40 auxilio angelica
+18:35 fim
+
+05/03
+08:00 analise de os 1003651
+08:23 banheiro
+08:29 analise de os 1003651
+09:58 analise de os 1004580
+10:10 levantamento de requisito 1004580
+10:39 analise de os 1003651
+11:13 levantamento de requisito 1004580
+11:40 auxilio pedro os integracao
+12:05 almoço
+
+13:30 auxilio pedro os integracao 
+13:57 analise de os 1003651
+14:20 auxilio braz
+14:41 analise de os 1003651
+15:20 analise de os 1003520
+16:42 cafe
+16:50 analise de os 1003520
+18:08 fim
+
+06/03
+08:00 atraso
+08:21 analise de os 1003489
+10:13 levantamento de requisito 1003489
+11:23 levantamento de requisito 1001496
+11:50 auxilio angelica
+12:10 almoço
+
+13:30 reuniao
+14:24 apontamento
+14:58 levantamento de requisito 1001496
+16:45 analise de os 1002650
+16:58 sizing
+17:13 analise de os 1002650
+17:40 projeto sgcontabil
+18:08 fim
+
+09/03
+08:00 atraso
+08:08 sp1
+08:47 analise de os 1002650
+09:39 levantamento de requisito 1002650
+09:58 analise de os - lalur
+10:10 levantamento de requisito 1002650
+10:40 auxilio angelica
+10:52 levantamento de requisito 1002650
+11:08 retrospectiva
+11:39 levantamento de requisito 1005717
+12:06 almoço
+
+13:30 auxilio angelica
+13:50 analise de os 1003719
+13:56 analise de os 1001228
+14:05 auxilio henriques
+14:08 analise de os 1001228
+14:40 auxilio eliseu
+15:02 levantamento de requisito 1002650
+15:32 analise de os 1002787
+16:28 café
+16:34 levantamento de requisito 1003520
+16:49 analise de os 1002650
+17:30 auxilio eduardo hp
+18:09 apontamento
+18:21 fim
+
+10/03
+08:00 atraso
+08:18 levantamento de requisito 1005996
+08:32 reuniao vr
+09:27 analise de os 1002787
+09:55 analise de os 1002500
+10:39 banheiro
+10:44 analise de os 1000495
+11:00 analise de os 1002798/1001437
+11:34 analise de os 1002650
+12:04 almoço
+
+13:30 auxilio henriques
+13:38 analise de os 1002798
+16:15 café
+16:27 analise de os 1002798
+17:25 banheiro
+17:30 auxilio angelica
+18:10 auxilio emerson
+18:23 fim
+
+11/03
+08:00 atraso
+08:10 organizacao de ambiente
+08:15 analise de os 1003715
+08:35 analise de os 1005081
+11:00 auxilio renan
+11:30 levantamento de requisito 1005081
+12:02 almoço
+
+13:30 atraso
+13:45 analise de os 
+14:38 levantamento de requisito 1006628
+14:42 analise de os 1004870
+17:40 auxilio angelica
+18:04 analise de os 1005261
+18:09 fim
+
+12/03
+08:00 apontamento
+08:20 analise de os 1001637 
+08:30 levantamento de requisito 1005693
+09:39 levantamento de requisito 1000222
+09:57 analise de os 1002650
+10:21 banheiro
+10:25 analise de os 1002650
+10:40 analise de os 1005261
+10:57 auxilio angelica
+12:08 fim
+
+13:30 auxilio angelica
+13:44 analise de os 988120
+13:56 auxilio desenvolvimento rafael
+14:05 analise de os 988120
+14:40 auxilio desenvolvimento eliseu
+14:45 analise de os 992161
+14:52 auxilio desenvolvimento eliseu/rafael
+15:25 analise de os 992161
+15:52 analise de os 1004712
+16:13 cafe
+16:25 analise de os 1004712
+17:18 sizing
+17:33 review 1005081
+18:09 fim
+
+13/03
+08:00 atraso
+08:07 apontamento
+08:21 review 1005081
+10:00 review 997211
+12:03 almoço
+
+13:30 reuniao qualidade
+14:43 levantamento de requisito 1007388
+16:25 café
+16:35 analise de os (email consulta decreto 3886)
+17:00 review 997211
+17:30 levantamento de requisito 1007388
+18:10 fim
+
+14/03
+08:17 analise de os - projeto sp1 contabil
+08:28 levantamento de requisito 1007388
+10:50 review 997211
+11:21 fim
+
+16/03
+08:00 atraso
+08:06 sp1
+08:25 review 1005081
+08:40 analise de os 1005261
+10:50 auxilio rafael
+11:01 retrospectiva
+11:40 levantamento de requisito 1005261
+12:04 almoço
+
+13:30 atraso
+13:35 analise de os 1005261
+14:58 analise de os 1007747
+15:28 analise de os 1005261
+16:14 café
+16:29 auxilio desenvolvimento rafael/eliseu 
+16:40 analise de os 1005261
+17:20 review 1005081
+17:50 analise de os 1003367
+18:00 auxilio henriques
+18:20 analise de os 1006801
+18:41 fim
+
+17/03
+08:00 atraso
+08:08 organizacao ambiente
+08:18 levantamento de requisito 1006801
+08:50 auxilio angelica
+09:10 levantamento de requisito 999054
+09:22 analise de os 1003367
+09:29 reuniao vr
+10:33 analise de os 1003367
+10:38 auxilio desenvolvimento eliseu
+10:46 banheiro
+10:50 analise de os 1003367
+12:00 almoco
+
+13:30 review 1007213
+14:25 analise de os mdfe NT 2020.001
+14:35 analise de os 1002131
+16:47 cafe
+17:02 analise de os 1002131
+18:09 fim
+
+18/03
+08:00 atraso
+08:18 analise de os 1002131
+12:02 almoço
+
+13:45 review 1007213
+14:24 levantamento de requisito 1002131
+15:13 banheiro
+15:18 reuniao qualidade
+15:41 auxilio mauricio
+17:00 analise de os 1004224
+18:30 fim
+
+19/03 
+08:00 atraso
+08:12 organizacao ambiente
+08:20 review 1007213
+08:53 analise de os 1008648
+09:09 levantamento de requisito 993233
+09:50 particular
+10:40 levantamento de requisito 993233 
+12:07 almoco
+
+13:34 levantamento de requisito 993233 
+15:00 levantamento de requisito 1005261
+15:30 analise de os 990381
+16:16 cafe
+16:30 levantamento de requisito 1005261
+17:23 reuniao analise 
+17:57 analise de os 
+18:11 fim
+
+20/03
+08:00 atraso
+08:07 organizacao ambiente 
+08:30 analise de os 1007809
+09:30 reuniao vr
+09:50 banheiro
+09:55 analise de os 1007809
+12:07 almoço
+
+13:30 reuniao qualidade
+14:40 analise de os 1007809
+15:05 analise de os 1007272 clicia
+16:25 café
+16:40 analise de os 1007272 clicia
+18:12 fim
+
+23/03
+08:00 sp1 contabil
+08:39 auxilio jonatan
+08:49 organizacao ambiente
+09:00 analise de os novo tempo
+10:10 daily scrum
+10:19 analise de os novo tempo
+11:05 retrospectiva
+12:05 almoço
+
+13:30 analise de os novo tempo
+15:30 apontamento
+15:45 levantamento de requisito 1000140
+16:00 auxilio thaina 1006871
+18:03 fim
+
+24/03
+07:58 analise de os 1006871
+08:10 daily scrum
+08:20 analise de os 1006871
+08:40 levantamento de requisito 1000140
+12:05 almoço
+
+13:45 reuniao vr
+14:17 levantamento de requisito 1000140
+14:30 reuniao vr 
+15:42 analise de os 1009760
+15:57 auxilio thaina
+16:10 auxilio gustavo
+16:23 auxilio thaina
+17:00 auxilio angelica
+17:17 analise de os 1009760
+17:42 analise de os 985783
+18:02 fim
+
+25/03
+07:56 analise de os 985783
+10:00 release notes 
+10:30 review 1005693
+11:10 review 991449
+12:00 almoço
+
+13:30 analise de os 1005996
+13:40 review 991449
+14:20 analise de os 1002792
+14:45 analise de os 1001433
+15:06 review 991449
+16:34 café
+16:48 auxilio eduardo hp
+17:20 auxilio rafael desenvolvimento
+17:30 review 991449
+18:09 fim
+
+26/03
+08:00 review 991449
+08:15 daily scrum
+08:30 review 991449
+08:36 levantamento de requisito 1010351
+08:55 levantamento de requisito 1010019
+09:30 levantamento de requisito 1010383
+12:00 almoço
+
+13:30 levantamento de requisito 1010383
+15:40 levantamento de requisito 1010019
+17:13 café
+17:25 review 1005693
+18:05 fim
+
+27/03
+08:00 analise de os 1003575
+08:17 daily scrum
+08:37 analise de os 1003651
+09:00 levantamento de requisito 1010583
+12:02 almoço
+
+13:30 reuniao qualidade
+13:40 levantamento de requisito 1010583
+14:09 levantamento de requisito 1005693
+14:51 review 1005717
+15:02 projeto qualidade
+15:21 review 1005717
+16:05 auxilio desenvolvimento eliseu
+16:10 review 1005717
+16:30 analise de os 1009059
+16:43 review 1005717
+17:08 café
+17:20 review 1005717
+18:00 fim
+
+30/03
+08:00 sp1 
+08:20 levantamento de requisito 1005717
+09:25 levantamento de requisito 1010904
+10:00 analise de os 1007604
+10:36 review 996982
+11:02 retrospectiva
+11:27 review 996982
+12:05 almoço
+
+13:30 review 996982
+14:00 analise de os 1007270
+14:30 levantamento de requisito 1007270
+15:54 analise de os 1005381
+16:38 auxilio desenvolvimento eliseu
+16:55 café
+17:10 levantamento de requisito 998149
+18:10 fim
+
+31/03
+08:00 levantamento de requisito 998149
+08:30 reuniao vr
+09:50 levantamento de requisito 998149
+12:04 almoço
+
+13:30 levantamento de requisito 998149
+13:45 analise de os 1007747
+13:55 apontamento
+14:19 banheiro
+14:25 levantamento de requisito 998149
+16:41 auxilio eduardo hp
+16:57 cafe
+17:05 levantamento de requisito 998149
+18:09 fim
+
+01/04
+08:00 analise de os 1006663
+08:20 daily scrum
+08:33 analise de os 1006663
+09:00 levantamento de requisito 1006663
+09:11 auxilio desenvolvimento rafael
+09:31 levantamento de requisito 1006663
+10:00 analise de os 998512
+10:10 analise de os 1006337
+11:20 levantamento de requisito 1006337
+12:05 almoço
+
+13:30 levantamento de requisito 1006337
+14:00 analise de os 1010480
+17:00 café
+17:15 analise de os 1010480
+18:10 fim
+
+02/04 
+
+08:00 apontamento
+08:20 daily scrum
+08:40 auxilio ederson 
+09:07 analise de os 1010480
+10:00 auxilio ederson, angelica, braz 
+10:30 levantamento de requisito 1010480
+11:55 auxilio jonatas
+12:09 almoço
+
+13:30 levantamento de requisito 1011700
+14:00 levantamento de requisito 1010480
+14:45 levantamento de requisito 1012125
+15:32 analise de os 1011919
+17:02 auxilio desenvolvimento rafael
+17:17 analise de os 1009905
+18:00 auxilio desenvolvimento rafael
+18:11 fim
+
+03/04 
+08:00 auxilio desenvolvimento rafael
+08:15 daily scrum
+08:29 auxilio desenvolvimento rafael
+08:50 levantamento de requisito 1009905
+10:00 treinamento contabil angelica e jonatas
+10:30 levantamento de requisito 1009905
+11:47 projeto contabil
+12:05 almoço
+
+13:30 retrospectiva
+13:45 auxilio jonatas 
+14:00 levantamento de requisito 1009905
+14:30 analise de os 1009390
+14:40 levantamento de requisito 1010282
+16:30 café
+16:44 levantamento de requisito 1012471
+17:57 auxilio edgar
+18:08 fim
+
+06/04
+08:00 sp1 
+08:20 apontamento
+08:40 review 1007747
+08:54 levantamento de requisito 998149
+09:10 banheiro
+09:15 auxilio ederson/sonia/angelica
+10:00 levantamento de requisito 998149
+11:00 retrospectiva
+11:35 auxilio angelica
+11:41 levantamento de requisito 998149
+12:03 almoço
+
+13:30 analise de os 1011730
+14:00 levantamento de requisito 1011730
+15:19 auxilio angelo 
+15:35 analise de os 952614
+15:45 auxilio gustavo
+15:52 levantamento de requisito 1011730
+16:20 review 1007747
+18:08 fim
+
+07/04
+08:00 review 1007747
+08:30 reuniao vr
+09:30 auxilio edgar/kajihara
+09:50 levantamento de requisitos 
+10:40 analise de os 1011830
+11:04 banheiro
+11:08 analise de os 1011830
+12:03 almoço
+
+13:30 atraso
+13:40 analise de os 1011830
+14:00 auxilio kajihara/rafael
+14:50 analise de os 1011830
+15:05 auxilio cassiano 
+15:20 analise de os 1011830
+15:40 analise de os 1012774
+16:00 levantamento de requisito 1013121
+16:20 levantamento de requisito 1013108
+16:40 levantamento de requisito 1012774
+18:10 auxilio henriques
+18:35 levantamento de requisito 1012774
+18:40 fim
+
+08/04 
+08:00 apontamento
+08:15 daily scrum
+08:37 levantamento de requisito 1013108
+10:00 levantamento de requisito 1013121
+10:10 auxilio devanir
+10:22 levantamento de requisito 1013121
+11:45 auxilio Rafael
+12:00 auxilio devanir
+12:13 almoço
+
+13:30 auxilio Rafael
+15:30 analise de os 1011830
+18:15 fim
+
+09/04
+08:00 analise de os 1011830
+08:19 daily scrum 
+08:35 analise de os 716766
+08:55 sizing 
+09:45 analise de os
+10:00 banheiro 
+10:05 auxilio thaina
+12:00 almoço
+
+13:30 retrospectiva
+13:40 levantamento de requisito 1011830
+14:30 auxilio angelica 
+14:40 analise de os 979307
+15:20 assinatura termo sg
+15:30 auxilio thaina
+15:43 analise os contabil
+16:13 auxilio jonatas
+16:40 cafe
+16:54 release notes
+17:40 analise de os 1012233
+18:05 levantamento de requisito 1013735
+18:14 fim
+
+13/04
+08:00 sp1
+08:21 organizacao ambiente
+08:27 analise de os 1013818
+09:40 banheiro
+09:43 analise de os 1013818
+09:50 auxilio jonatas/angelica
+10:42 levantamento de requisito 1013818
+11:00 retrospectiva
+11:55 analise de os 1013818
+12:02 almoço
+
+13:30 levantamento de requisito 1013818
+14:20 levantamento de requisito 1013958
+14:50 levantamento de requisito 1013818
+15:57 auxilio eliseu 
+16:18 levantamento de requisito 1013818
+17:29 levantamento de requisito 1011843
+18:10 fim
+
+14/04
+08:00 analise de os 1014108
+08:21 auxilio eliseu
+08:37 reuniao vr
+10:05 levantamento de requisito 1014108
+10:50 analise de os 1002131
+12:05 almoço
+
+13:30 atraso
+13:36 auxilio jonatan
+13:45 review 1014108
+15:57 analise de os 1002131
+16:52 cafe
+17:05 analise de os 1002131
+17:35 apontamento
+17:50 auxilio eliseu
+18:03 fim
+
+15/04
+08:00 review 1014108
+09:35 analise de os 1013376
+10:00 levantamento de requisito 1013376
+11:00 auxilio rafael
+11:20 levantamento de requisito 1013376
+11:28 auxilio jonatas
+11:38 levantamento de requisito 1013376
+12:01 almoco
+
+13:30 review 993846
+14:35 auxilio jonatas
+14:49 review 993846
+15:19 levantamento de requisito 1014644
+15:50 analise de os 1013724
+16:43 cafe
+16:50 analise de os 1013724
+17:05 review 1012774
+18:07 fim
+
+16/04
+08:00 review 1012774
+08:18 daily scrum
+08:40 auxilio rafael
+08:50 auxilio angelica
+09:01 banheiro
+09:10 auxilio rafael sped ECD
+09:34 auxilio jonatas
+10:25 auxilio rafael sped ECD
+10:57 auxilio jonatas
+11:20 analise de os 1013858
+12:00 almoço
+
+13:30 levantamento de requisito 1013858
+14:50 auxilio rafael sped ECD
+15:27 review 1012774
+16:40 levantamento de requisito 1014980
+17:20 auxilio angelica
+17:36 review 1005693
+18:20 auxilio eliseu
+18:49 fim
+
+17/04
+08:00 atraso
+08:05 review 1005693
+08:15 daily scrum 
+08:38 review 1005693
+09:25 analise de os 1014980
+11:08 banheiro
+11:17 analise de os 1014980
+11:30 analise de os 1002131
+12:10 almoço
+
+13:30 retrospectiva
+13:50 analise de os 1014980
+13:57 auxilio jonatas/thaina
+16:00 reuniao gustavo
+16:30 auxilio angelica 
+17:20 analise de os sgcontabil autoupdate
+18:43 fim
+
+20/04
+08:00 sp1
+08:40 analise de os 1013845
+08:50 criar checklist contabil
+10:06 analise de os 1014980
+11:00 retrospectiva 
+11:40 analise de os 1014980
+12:07 almoço
+
+13:30 review 1013735
+14:00 auxilio jonatas novo tempo CIAP
+14:20 review 1013735
+15:00 reuniao vr
+15:40 review 1013735
+16:09 review 1014644
+17:03 cafe
+17:14 analise de os 1014980
+17:30 analise de os 767075
+18:22 fim
+
+22/04
+08:00 review 1013735
+08:16 daily scrum 
+08:30 review 1013735
+08:56 review 1014644
+09:25 review 1013735
+10:00 analise de os 1014980
+10:18 analise de os 1015838
+10:33 banheiro
+10:38 analise de os 1015838
+11:40 auxilio rafael
+12:00 almoço
+
+13:30 analise de os 1015838
+14:30 auxilio sonia adrcst
+14:45 analise de os 1015838
+15:00 analise de os 1015344
+16:50 cafe
+16:55 review 1015302
+18:16 fim
+
+23/04
+08:00 atraso
+08:04 review 1015302
+08:15 daily scrum 
+08:40 review 1015302
+10:29 auxilio claudinei
+11:03 auxilio angelica
+11:22 review 1013735
+12:00 almoço
+
+13:30 atraso
+14:20 auxilio sonia adrcst
+15:25 auxilio eliseu
+15:47 auxilio ederson 
+15:51 review 1013735
+18:10 fim
+
+24/04
+08:00 review 1013735
+08:20 daily scrum
+08:38 review 1013735
+09:45 auxilio eliseu
+10:00 review 1013735
+10:50 levantamento de requisito 1016045
+12:15 almoço
+
+13:30 atraso
+13:45 retrospectiva
+13:50 apontamento
+14:36 analise de os 1015641
+16:30 review ecd 1013735
+16:40 auxilio angelica
+16:50 review ecd 1013735
+17:17 sizing 
+18:08 reuniao gustavo
+18:20 auxilio rafael ECD
+19:05 fim
+
+27/04
+08:00 sp1
+08:40 apontamento
+08:58 projeto qualidade
+09:18 release notes
+09:50 review 1016622
+10:00 banheiro
+10:03 reuniao Thaina
+10:15 review 1016622
+11:00 retrospectiva 
+12:00 almoço
+
+13:32 review 101622/1013735
+14:10 analise de os 1015344
+14:25 levantamento de requisito 1016978
+15:00 analise de os 1014696
+18:30 fim
+
+28/04
+08:00 auxilio desenvolvimento rafael autoupdate
+08:45 reuniao vr
+09:24 check list
+10:00 levantamento de requisito 1015112
+10:48 auxilio claudinei
+11:13 check list
+11:35 banheiro
+11:41 check list
+12:00 almoço
+
+13:30 check list
+16:00 analise de os 1016599
+17:00 check list
+18:02 fim
+
+29/04
+08:00 atraso
+08:05 levantamento de requisito 1017305
+08:20 daily scrum
+08:35 levantamento de requisito 1017305
+09:00 review 1013845
+09:15 analise de os 1012329
+10:20 check list
+12:05 almoço
+
+13:30 atraso
+13:35 check list
+14:49 auxilio jonatan
+15:05 review 1011218
+17:00 auxilio jonatan
+18:50 fim
+
+30/04
+08:00 levantamento de requisito 1017757
+08:17 daily scrum
+08:30 levantamento de requisito 1017757
+08:50 auxilio jonatan
+09:00 auxilio thaina
+10:00 review 1011218
+10:05 auxilio jonatas 
+10:35 review 1011218
+12:04 fim
+
+13:30 retrospectiva
+14:05 levantamento de requisito 1016602
+14:25 check list
+14:49 analise de os 1017407/1017566/1017589
+15:30 check list
+16:50 sizing
+18:25 fim 
+
+04/05
+08:00 sp1
+08:35 analise de os 1017660
+08:42 levantamento de requisito 1017260
+11:00 retrospectiva
+11:35 auxilio suporte
+11:50 auxilio desenvolvimento kajihara 1017621
+12:15 almoço
+
+13:30 atraso
+13:33 auxilio desenvolvimento kajihara 1017621
+15:20 levantamento de requisito 1013974
+16:05 analise de os 1016201
+17:13 analise de os 1016612
+17:20 café
+17:30 review backup sgcontabil
+18:00 levantamento de requisito 1015838
+18:45 fim
+
+05/05
+
+08:00 pre-teste bkp cameli
+08:36 reuniao vr
+09:45 auxilio suporte angelica 
+10:15 levantamento de requisito 1016105
+12:05 almoço
+
+13:30 atraso
+13:35 review 1016599
+14:32 review 1016045
+15:00 review 1010904
+16:00 levantamento de requisito 958743
+17:10 café
+17:15 levantamento de requisito 958743
+18:10 fim
+
+06/05
+08:00 atraso
+08:03 apontamento
+08:13 auxilio gustavo braz
+08:25 daily scrum
+08:48 auxilio desenvolvimento rafael
+08:58 levantamento de requisito 999730
+10:00 levantamento de requisito 1016045
+10:58 levantamento de requisito 986549
+12:00 almoço
+
+13:30 auxilio desenvolvimento Cassiano
+13:50 levantamento de requisito 986549
+14:00 auxilio angelica/jonatas
+15:25 levantamento de requisito 1018629
+16:30 café
+16:45 analise de os 787508
+17:00 analise de os 933975
+17:25 analise de os 937769
+18:10 fim
+
+07/05
+08:00 atraso
+08:10 auxilio angelica
+08:20 analise de os 937769
+08:35 daily scrum
+09:00 auxilio henriques
+09:05 auxilio desenvolvimento cassiano 
+09:33 analise de os 1017660/1017757/1017566
+09:37 analise de os 1000140
+10:00 analise de os 937769
+10:20 analise de os 1017720
+11:15 levantamento de requisito 1019443
+11:45 auxilio desenvolvimento cassiano
+12:00 almoço
+
+13:30 review 1016045
+15:00 analise de os 1015141
+16:00 auxilio angelica 
+16:20 review 1016045
+17:10 café
+17:25 review 1016045
+17:40 auxilio henriques
+18:05 fim 
+
+08/05
+08:00 review 1016045
+08:20 daily scrum 
+08:47 auxilio angelica ecd novo tempo
+08:55 banheiro
+09:00 review 1016045
+09:40 auxilio angelica/jonatas
+10:30 review 1016045
+11:40 auxilio sonia adrc-st
+12:08 almoço
+
+13:30 retrospectiva 
+13:50 review 1016045
+14:40 levantamento de requisito 1019814
+15:00 analise de os 1019776
+15:30 levantamento de requisito 1019814
+16:00 sizing
+16:40 auxilio jonatan/eduardo f sped ECD
+17:00 projeto sprint
+17:20 auxilio gustavo /thaina
+18:33 fim
+
+11/05
+08:00 sp1
+08:35 auxilio angelica 
+08:42 banheiro
+08:48 auxilio angelica
+08:50 review 1000823
+11:00 retrospectiva
+11:30 review 1000823
+12:06 almoço
+
+13:30 atraso
+13:33 review 1000823
+14:20 levantamento de requisito 1002373
+14:33 auxilio cassiano 1019776
+15:00 analise de os 1019776
+15:20 levantamento de requisito 1002373
+15:38 auxilio gustavo 
+15:50 auxilio sonia adrc-st
+15:54 levantamento de requisito 1002373
+17:00 café
+17:15 analise de os 1019691
+18:27 fim
+
+12/05
+08:00 levantamento de requisito 1020390
+08:32 reuniao
+09:12 auxilio jonatas
+09:27 auxilio angelica
+10:34 banheiro
+10:38 levantamento de requisito 1020390
+12:14 almoço
+
+13:30 atraso
+13:40 analise de os 1019525 novo tempo
+14:00 reuniao PO
+15:08 analise de os 1019525 novo tempo
+16:00 analise de os 1018897
+17:03 auxilio angelica/gustavo 
+17:14 analise de os 1020679
+17:20 auxilio angelica 
+18:05 apontamento
+18:08 fim
+
+13/05
+08:00 atraso
+08:09 auxilio angelica
+08:24 daily scrum
+08:40 analise de os 1019560
+08:55 auxilio angelica
+09:15 banheiro
+09:25 analise de os 1015870 
+10:30 levantamento de requisito 1015870
+12:05 almoço
+
+13:30 atraso
+13:38 levantamento de requisito 1020390
+14:28 verificar os pendentes sgcontabil 
+15:20 analise de os 1019246
+15:40 levantamento de requisito 1019246
+17:00 levantamento de requisito 1017260
+17:56 apontamento
+18:04 fim
+
+14/05
+08:00 levantamento de requisito 1017260
+08:15 daily scrum
+08:44 validar manual da reinf
+09:00 auxilio cassiano
+09:20 validar manual da reinf
+09:37 banheiro
+09:44 auxilio sonia
+09:48 validar manual da reinf
+10:19 auxilio angelica
+10:30 validar manual da reinf
+12:05 almoço
+
+13:30 validar manual da reinf
+14:23 auxilio angelica sped ecd
+14:57 apontamento
+15:00 levantamento de requisito 1017260
+16:12 café
+16:27 levantamento de requisito 1017260
+17:15 auxilio jonatan
+17:25 levantamento de requisito 1017260
+17:30 auxilio gustavo
+17:50 apontamento
+18:25 fim
+
+15/05
+08:00 analise os economico 1020678
+08:15 daily scrum
+08:29 analise os economico 1020678
+10:20 review 1017305
+10:55 auxilio desenvolvimento filipe 
+11:30 review 1017305
+12:16 almoço
+
+13:30 retrospectiva
+13:45 review 1017305
+14:30 sizing 
+15:00 review 1017566
+15:27 auxilio filipe
+16:10 auxilio gustavo / ederson
+17:14 cafe
+17:26 auxilio jonatas
+17:35 review 1017566
+17:40 auxilio jonatas 
+18:20 fim
+
+18/05
+08:00 sp1
+08:40 preparando ambiente 1013121
+09:15 review 1017305
+09:30 analise de os 984199
+09:50 banheiro
+09:55 auxilio jonatas
+10:15 analise de os 1017260
+10:35 auxilio gustavo braz / jonatas
+10:50 analise de os 984199
+11:00 retrospectiva
+11:53 levantamento de requisito 984199
+12:05 almoço
+
+13:30 review 1017566
+14:30 auxilio henriques
+14:45 levantamento de requisito 1021994
+15:00 levantamento de requisito 1017260
+17:07 levantamento de requisito 984199
+18:00 fim
+
+19/05
+08:00 apontamento 
+08:18 review 1017305
+08:40 reuniao vr
+09:30 levantamento de requisito 984199
+11:50 auxilio cassiano
+12:08 almoço
+
+13:30 review 1017757
+14:16 levantamento de requisito 1022306
+14:45 review 1017757
+15:00 review 1018203
+15:35 auxilio angelica
+15:58 review 1018203
+16:15 auxilio jonatas
+16:20 levantamento de requisito 1022408
+16:30 auxilio jonatas
+16:40 levantamento de requisito 1022408
+17:00 cafe
+17:11 auxilio jonatas
+17:30 review 1017305
+18:22 fim
+
+25/05
+08:00 sp1
+08:35 projeto qualidade
+09:00 release notes
+10:10 auxilio angelica
+10:15 atendimento anselmo email
+10:24 auxilio jonatas
+10:34 apontamento
+10:40 check list projeto
+10:45 banheiro 
+10:55 check list
+11:00 retrospectiva
+11:47 analise de os 1020679
+12:08 almoço
+
+13:30 atraso
+13:33 analise de os 1020679
+14:56 banheiro
+15:05 auxilio angelica
+15:20 check list
+15:58 auxilio jonatas
+16:12 check list
+16:35 café
+16:45 analise de os 1023775
+18:15 fim
+
+26/05
+08:00 analise de os 1023775
+08:16 reuniao vr
+08:57 levantamento de requisito 1023775
+09:28 banheiro
+09:35 levantamento de requisito 1023775
+10:50 check list
+12:12 almoço
+
+13:30 atraso
+13:34 auxilio desenvolvimento cassiano 1019814
+16:00 check list
+16:15 levantamento de requisito 1024311
+16:57 café
+17:10 check list
+17:46 auxilio angelica / jonatas
+17:58 check list
+18:15 fim
+
+27/05
+08:00 analise de os 1022384
+08:17 daily scrum
+08:32 auxilio angelica 
+08:40 banheiro
+08:50 check list
+12:09 almoço
+
+13:30 levantamento de requisito 1024529
+15:00 levantamento de requisito 1024584
+15:30 analise de os 1022384
+15:47 auxilio gustavo 
+16:10 analise de os 1022384
+16:36 cafe
+16:41 auxilio gustavo
+16:45 auxilio jonatas
+17:01 analise de os 1022384
+18:15 apontamento
+18:20 fim
+
+28/05
+08:00 atraso
+08:07 analise de os 1022384
+08:49 levantamento de requisito 1022384
+08:56 auxilio jonatan
+09:07 levantamento de requisito 1022384
+09:45 banheiro
+09:55 check list
+12:10 almoço
+
+13:30 atraso
+13:38 check list
+13:47 auxilio maikon
+14:09 check list
+15:14 auxilio jonatas 
+15:30 check list
+16:00 auxilio kajihara
+16:15 auxilio jonatas
+16:24 check list
+16:34 auxilio kajihara
+16:45 auxilio jonatas
+16:53 check list
+17:00 auxilio jonatas 
+18:05 fim
+
+29/05
+08:00 atraso
+08:08 auxilio gustavo
+08:15 daily scrum
+08:45 analise de os 1017260
+09:25 banheiro
+09:35 auxilio jonatas
+10:15 analise de os 1017260
+11:45 analise de os 1024362, 1024345 e 1024103 
+12:09 almoço
+
+13:30 atraso
+13:38 retrospectiva qualidade
+13:44 analise de os 1024362, 1024345 e 1024103 
+13:58 auxilio jonatas
+15:00 analise de os 1024362, 1024345 e 1024103 
+15:35 auxilio jonatan
+15:40 analise de os 1024128
+15:45 cafe
+15:54 auxilio gustavo
+17:30 sizing
+18:30 fim
+
+01/06
+08:00 sp1 
+08:40 analise os 1023775
+08:55 auxilio gustavo - trello
+09:07 analise de os 1001854
+09:17 banheiro
+09:25 levantamento de requisito 1017260
+11:00 retrospectiva
+11:47 levantamento de requisito 1017260
+12:05 almoço
+
+13:30 atraso
+13:35 levantamento de requisito 1017260
+14:45 review 1022408
+16:05 auxilio rafael
+16:10 review 1022408
+16:20 auxilio cassiano
+16:25 review 1013121
+16:30 banheiro
+16:35 review 1013121
+17:15 cafe
+17:30 analise de os 980135
+17:35 auxilio jonatas
+18:03 fim
+
+02/06
+08:00 levantamento de requisito 1025826
+08:20 reuniao vr
+10:20 banheiro
+10:28 levantamento de requisito 1025826
+11:00 analise de os 980135
+11:23 analise de os 1025492
+12:17 almoço
+
+13:30 analise de os 1025492
+15:00 analise de os 1024486/1024930
+15:30 levantamento de requisito 1024930
+16:45 auxilio angelica
+17:04 analise de os 1016201
+17:30 auxilio jonatas 
+18:15 fim
+
+03/06
+08:00 analise de os 1016201
+08:20 daily scrum
+08:42 analise de os 1026189
+08:46 analise de os 1016201
+09:00 levantamento de requisito 1016201
+09:40 banheiro
+09:45 levantamento de requisito 1016201
+10:35 verificando apontamento
+10:39 auxilio suporte jonatas - ECD sao luiz
+12:03 almoço
+
+13:30 auxilio suporte jonatas - ECD sao luiz
+15:00 analise de os 1025224
+16:22 auxilio suporte jonatas 
+17:10 levantamento de requisito 1026604
+18:18 auxilio angelica
+18:26 fim
+
+04/06
+08:00 atraso
+08:06 apontamento
+08:15 analise de os 1016201
+08:22 daily scrum
+08:42 analise de os 1026636
+08:50 analise de os 1020797
+09:10 auxilio braz os 1025492
+09:40 analise de os 1020797
+10:09 auxilio jonatas
+10:53 analise de os 1020797
+11:06 analise de os 1026763
+11:13 auxilio cassiano
+11:16 auxilio gustavo
+11:26 analise de os 1020797
+12:04 almoço
+
+13:30 levantamento de requisito 1020797
+15:40 analise de os 1026905
+16:08 auxilio bruno silva mc consultoria
+16:57 atendimento mc consultoria
+18:35 fim
+
+05/06
+08:00 levantamento de requisito 1027000
+08:20 daily scrum 
+08:40 levantamento de requisito 1027000
+09:40 levantamento de requisito 1026905
+10:29 auxilio jonatas
+10:40 levantamento de requisito 1026905
+11:20 levantamento de requisito 1020816
+12:10 almoço
+
+13:30 retrospectiva
+13:50 levantamento de requisito 1020816
+15:20 analise de os 1024451
+16:02 sizing
+16:50 café
+17:00 auxilio angelica
+17:25 projeto contabil 
+17:50 analise de os 1024451
+18:00 auxilio jonatas
+18:14 fim
+
+08/06
+08:00 sp1
+08:30 analise de os 1024451
+08:40 banheiro
+08:50 analise de os 1024451
+10:20 auxilio angelica
+10:25 levantamento de requisito 1026905
+11:00 retrospectiva
+12:05 almoço
+
+13:30 levantamento de requisito 1026905
+13:44 auxilio braz/angelica
+14:50 analise de os 1026905
+16:30 analise de os 1022283
+17:10 café
+17:25 analise de os 1022283
+17:35 review 1026763
+17:50 analise de os 1025430
+18:15 fim
+
+09/06
+08:03 levantamento de requisito 1021994
+08:20 reuniao vr
+09:42 banheiro
+09:52 auxilio braz
+09:58 analise de os 1027501
+11:30 analise de os 1020823
+12:02 almoço
+
+13:30 atraso
+13:35 analise de os 1020823
+14:11 auxilio cassiano
+14:35 levantamento de requisito 1026905
+14:53 analise de os 1020823
+15:34 auxilio cassiano/filipe/arielson/jonatas
+16:47 café
+17:02 auxilio jonatas 
+17:27 review 1024529
+18:05 fim
+
+10/06
+08:00 review 1024529
+08:17 daily scrum
+08:44 levantamento de requisito 1028257
+08:49 auxilio arielson
+09:08 levantamento de requisito 1028257
+09:55 levantamento de requisito 1024529
+10:30 release notes
+10:50 auxilio sonia
+10:55 auxilio jonatas
+10:58 auxilio thaina
+11:06 auxilio jonatas/angelica
+11:22 auxilio desenvolvimento cassiano/filipe
+12:15 almoço
+
+13:30 atraso
+13:34 auxilio desenvolvimento filipe 
+13:43 analise de os 1028257
+13:50 auxilio jonatas
+14:43 apontamento
+14:50 analise de os 1028257
+15:20 auxilio jonatas 
+16:00 release notes
+16:40 café
+16:55 analise de os 1028484
+17:00 analise de os 1028257
+17:20 levantamento de requisito 1027536
+17:40 levantamento de requisito 1028537
+18:10 fim
+
+12/06
+08:00 review 1024529
+08:20 daily scrum 
+08:35 review 1024529
+10:00 analise de os 1020823
+12:05 almoço
+
+13:30 retrospectiva
+13:40 levantamento de requisito 1020823
+14:40 levantamento de requisito 1028257
+15:15 levantamento de requisito 1025912
+15:32 sizing
+16:40 analise de os 1028786
+18:22 fim
+
+férias - 20 dias 
+
+06/07
+08:00 organizacao do ambiente
+08:10 sp1
+08:28 reuniao thaina
+08:40 projeto qualidade
+09:10 organizacao do ambiente
+09:35 review 1030840
+11:00 retrospectiva contabil
+11:35 review 1030840
+12:02 almoço
+
+13:30 levantamento de requisito 996687
+14:23 analise de os 1030840
+14:35 levantamento de requisito 996687
+15:00 review 1028498
+15:11 auxilio lucas ramos 
+15:30 review 1028498
+15:41 levantamento de requisito 1033815
+16:08 analise de os 1031455
+17:14 analise de os 1032005
+18:03 fim
+
+07/07
+08:00 review 1028498
+08:20 reuniao vr
+08:41 review 1028498
+10:30 levantamento de requisito 1032005
+12:02 almoço
+
+13:30 atraso
+13:38 review 1028498
+15:40 levantamento de requisito 1035193
+16:20 auxilio suporte marcos 
+16:40 analise de os 1034693
+18:00 auxilio jonatas
+18:29 fim
+
+08/07
+08:00 atraso
+08:04 apontamento
+08:10 analise de os 1034693
+08:20 daily 
+08:37 analise de os 1034693
+08:45 review 1028498
+09:00 levantamento de requisito 1033836
+10:10 levantamento de requisito 1035052
+11:36 auxilio thaina
+12:08 almoço
+
+13:30 atraso
+13:34 review 1028498
+14:40 analise de os 1035163
+14:57 review 1028498
+15:20 levantamento de requisito 1019490
+17:30 auxilio cassiano
+18:30 fim 
+
+09/07
+08:00 review 1028498
+08:20 daily scrum
+08:44 review 1028498
+09:12 banheiro
+09:25 levantamento de requisito 1035052
+10:50 auxilio Jonatas
+11:10 levantamento de requisito 1035052
+11:40 auxilio henriques
+11:50 auxilio gustavo 
+12:15 almoço
+
+13:30 atraso 
+13:36 auxilio jonatas ecf sao luis
+16:20 review 1035163
+17:27 cafe
+17:40 levantamento de requisito 1032005
+18:02 fim
+
+10/07 
+08:00 atraso
+08:19 analise de os 1035814
+08:51 banheiro
+09:00 analise de os 1035814
+10:10 auxilio ana financeiro gbs
+10:36 levantamento de requisito 1035814
+11:45 review 1035193
+12:02 almoço
+
+13:30 retrospectiva
+13:45 analise de os 1034693
+14:00 auxilio jonatas
+14:15 analise de os 1034693
+14:45 levantamento de requisito 1034693
+15:20 levantamento de requisito 1032005
+16:50 café
+17:05 levantamento de requisito 1032005
+17:30 projeto contabil
+18:10 fim
+
+13/07
+08:00 sp1
+08:30 analise de os 1031811
+09:00 levantamento de requisito 1035052
+10:55 analise de os 1036623
+11:00 retrospectiva
+11:50 auxilio jonatas
+12:00 almoço
+
+13:30 atraso
+13:37 levantamento de requisito 1036623
+14:30 analise de os 1031781
+15:00 auxilio arielson
+15:17 analise de os 1031781
+16:35 café
+16:50 auxilio jonatas
+16:55 levantamento de requisito 1021994
+17:30 release notes
+18:06 auxilio cassiano
+18:13 auxilio jonatas 
+18:18 fim
+
+14/07
+08:00 atraso
+08:07 novidades 
+08:15 reuniao vr
+08:43 levantamento de requisito 1021994
+09:02 reuniao gustavo
+09:08 banheiro
+09:15 levantamento de requisito 1021994
+12:02 almoço
+
+13:30 auxilio cassiano
+14:30 levantamento de requisito 1021994
+16:00 analise de os 1036772
+17:26 auxilio jonatas
+18:26 fim
+
+15/07 
+08:00 atraso
+08:05 organizacao ambiente
+08:15 daily scrum
+08:39 levantamento de requisito 1036772
+10:00 analise de os 1036622
+11:20 banheiro
+11:28 analise de os 1036622
+12:06 almoço
+
+13:30 atraso
+13:37 analise de os 1036622
+15:30 auxilio gustavo
+15:50 atendimento gbs
+16:20 analise de os 1036622
+17:30 cafe
+17:40 analise de os 1036622
+18:40 fim 
+
+16/07
+08:00 analise de os 1036622
+08:15 daily scrum
+08:37 analise de os 1036622
+08:45 banheiro
+08:50 analise de os 1036622
+12:00 almoço
+
+13:30 atraso
+13:50 review 1026130
+15:30 levantamento de requisito 1036876
+16:45 café
+17:00 analise de os 1037410
+17:06 analise de os 1024817
+17:30 analise de os 1037410
+18:30 fim
+
+17/07
+08:00 levantamento de requisito 1037410
+08:15 daily scrum
+08:32 banheiro
+08:40 levantamento de requisito 1037410
+10:44 auxilio jonatas
+11:30 levantamento de requisito 1038080
+12:06 fim
+
+13:30 atraso
+13:36 retrospectiva qualidade 
+14:00 levantamento de requisito 1038080
+15:00 levantamento de requisito 1038136
+15:15 analise de os 1024817
+15:20 projeto qualidade
+15:45 analise de os 1002629
+16:20 sizing
+16:55 auxilio jonatas
+17:10 projeto sgcontabil
+17:45 auxilio jonatas
+18:40 fim
+
+20/07
+08:00 sp1
+08:30 levantamento de requisito 1002629
+09:34 auxilio jonatan 1028158
+10:40 banheiro
+10:48 release notes 
+11:00 retrospectiva 
+11:35 analise de os 1038406
+12:15 almoço
+
+13:30 analise de os 1038406
+14:05 auxilio jonatas 
+14:10 analise de os 1038406
+15:00 levantamento de requisito 1038406
+16:00 review 1031811
+16:40 analise os jonatas em aberto
+17:15 check list contabil
+17:45 auxilio rafael 
+18:13 check list contabil
+18:20 fim
+
+21/07
+08:00 atraso
+08:08 check list contabil
+08:20 reuniao vr
+08:40 auxilio jonatan/jonatas
+09:09 analise de os 1038563
+09:30 check list contabil
+11:10 auxilio jonatas
+11:50 check list contabil
+12:00 auxilio jonatas
+12:20 almoço
+
+13:30 check list contabil
+13:38 analise de os 1038768
+13:58 auxilio jonatas 
+14:45 analise de os 1038768
+15:00 analise de os 1038488
+15:15 analise de os 1038768
+17:48 auxilio Maikon
+18:30 levantamento de requisito 1039093
+18:45 fim 
+
+22/07
+08:00 analise de os 1038890
+08:20 daily scrum
+08:26 analise de os 1038890
+09:40 auxilio jonatan
+10:15 levantamento de requisito 1039171
+11:00 analise de os 1038137
+12:02 almoço
+
+13:30 levantamento de requisito 1039171
+14:13 auxilio cassiano
+14:45 levantamento de requisito 1039171
+15:30 auxilio jonatas
+16:36 check list
+17:10 analise de os 1038137
+18:40 fim
+
+23/07
+
+08:00 analise de os 1038137
+08:20 daily scrum 
+08:45 analise de os 1038137
+09:00 auxilio kajihara
+09:08 levantamento de requisito 1039093
+10:30 auxilio jonatas
+11:20 levantamento de requisito 1039093
+12:07 almoço
+
+13:30 analise de os 1038137
+15:16 auxilio jonatas 
+15:23 analise de os 1038137
+16:10 auxilio kajiahara
+16:30 auxilio ederson
+16:50 analise de os 1038137
+18:00 fim
+
+24/07
+08:00 atraso
+08:05 analise de os 1038137
+08:20 daily scrum
+08:40 analise de os 1038137
+09:20 levantamento de requisito 1002629
+10:30 atendimento cameli
+11:00 levantamento de requisito 1002629
+11:30 review 1037410
+12:05 almoço
+
+13:30 retrospectiva
+13:40 atendimento cameli
+15:00 review 1037410
+15:50 sizing
+16:20 atendimento cameli
+17:20 auxilio jonatas
+18:18 fim
+
+27/07
+08:00 sp1
+08:25 1037410
+11:00 retrospectiva 
+11:50 analise de os 1030032
+12:01 almoço
+
+13:30 atraso
+13:33 review 1036369
+14:30 reuniao GPTW
+14:53 levantamento de requisito 1040508
+15:20 levantamento de requisito 1030032
+17:20 levantamento de requisito 1038588
+18:01 fim
+
+28/07
+08:00 atraso
+08:03 levantamento de requisito 1030032
+08:18 reuniao vr 
+09:05 levantamento de requisito 1030032
+09:15 banheiro
+09:23 levantamento de requisito 1030032
+10:15 analise de os 1036127
+11:00 analise de os 1035814
+11:30 levantamento de requisito 1030032
+12:01 almoço
+
+13:30 atraso 
+13:34 levantamento de requisito 1030032
+13:58 auxilio suporte jonatas
+14:20 levantamento de requisito 1030032
+14:40 levantamento de requisito 1030156
+14:53 auxilio Thaina
+15:35 levantamento de requisito 1030156
+16:00 café
+16:07 auxilio jonatas
+16:20 levantamento de requisito 1030156
+17:20 auxilio jonatan
+18:04 fim
+
+29/07
+08:00 atraso
+08:03 analise de os 1040923
+08:17 daily scrum
+08:48 analise de os 1040923
+09:00 analise de os 1030032
+09:50 auxilio cassiano
+10:00 levantamento de requisito 1030032
+10:15 analise de os 1040923
+11:20 atendimento
+12:30 almoço
+
+13:35 atendimento mc consultoria
+15:40 review 1039347
+16:05 atendimento mc consultoria
+18:00 fim
+
+30/07
+08:00 atraso
+08:02 pesquisa GTPW
+08:20 daily scrum
+08:40 auxilio jonatan
+08:45 pesquisa GTPW
+09:10 review 1038821
+09:25 auxilio kajihara
+09:28 review 1038821
+09:35 review 1039201
+09:55 auxilio ederson
+10:18 review 1039201
+11:07 auxilio kajihara 
+11:25 atendimento
+12:16 almoço
+
+13:30 review 1039094
+14:00 analise de os 1038488/1039210
+14:20 banheiro
+14:30 analise de os 1038488/1039210
+15:04 atendimento
+16:50 cafe
+17:05 auxilio jonatas / jonatan
+17:30 analise de os 935465
+17:40 analise de os 1038488/1039210
+17:55 organizacao de ambiente
+18:02 fim
+
+31/07
+08:00 atraso
+08:13 daily scrum
+08:35 auxilio thaina
+08:55 review 1039201
+09:09 auxilio kajihara
+09:20 review 1039201
+09:55 analise de os 1040046
+10:30 analise de os 979870
+11:04 auxilio jonatas
+11:30 atendimento gbs
+12:02 almoço
+
+13:30 retrospectiva
+13:40 analise de os 1002036
+14:09 atendimento gbs
+14:28 auxilio desenvolvimento filipe
+15:04 levantamento de requisito 1038588
+15:15 levantamento de requisito 1002036
+16:13 levantamento de requisito 1028466
+16:23 auxilio jonatas 
+16:33 levantamento de requisito 1028466
+16:42 auxilio jonatas
+16:48 atendimento gbs
+17:30 sizing
+17:45 projeto contabil
+18:02 fim
+
+03/08
+08:00 sp1
+08:35 organizacao ambiente
+08:45 levantamento de requisito 1030032
+09:35 banheiro
+09:40 levantamento de requisito 1030032
+11:00 retrospectiva
+11:40 auxilio Jonatan
+12:00 almoço
+
+13:30 atraso
+13:33 analise de os 979870
+13:50 analise de os 989228
+15:20 auxilio jonatas ECD cameli
+16:50 café 
+17:00 levantamento de requisito 989228
+17:30 auxilio jonatas ECD cameli
+18:06 fim
+
+04/08
+08:00 atraso
+08:10 analise de os 1040508
+08:15 analise de os 1041546
+08:20 reuniao vr
+08:55 levantamento de requisito 989228
+09:20 auxilio jonatas ref atendimento novo tempo (ECF) e norberto 
+12:02 almoço
+
+13:30 atraso
+13:35 auxilio jonatas
+13:45 atendimento mc consultoria 
+13:52 review 1040508
+14:05 auxilio cassiano
+14:30 review 1040508
+14:54 atendimento mc consultoria
+18:26 fim
+
+05/08
+08:00 atraso
+08:05 review 1040508
+08:12 apontamento
+08:18 daily scrum
+08:35 auxilio jonatas/jonatan
+09:10 analise de os 1039210/1038488
+09:17 analise de os 1042426
+10:40 levantamento de requisito 1042933
+11:05 auxilio jonatas
+11:45 atendimento mc consultoria
+12:10 almoço
+
+13:30 atraso
+13:38 analise de os 1032537
+14:05 analise de os 1030032
+14:20 auxilio jonatas
+14:27 analise de os 1041546
+15:25 atendimento mc consultoria
+18:04 fim
+
+06/08
+08:00 atraso
+08:06 review 1042933
+08:20 daily scrum
+08:50 review 1042933
+09:00 auxilio jonatas 
+09:10 levantamento de requisito 1032537
+09:20 banheiro
+09:28 levantamento de requisito 1032537
+10:12 analise de os 1041546
+11:00 analise de os 1030032
+11:28 levantamento de requisito 1030032
+11:45 levantamento de requisito 989228
+12:01 almoço
+
+13:30 levantamento de requisito 989228
+15:00 analise de os 1020797
+16:30 cafe
+16:45 auxilio jonatas 
+16:53 analise de os 1020797
+17:35 auxilio jonatan
+17:47 analise de os 1043524
+18:08 auxilio jonatas
+18:20 fim
+
+07/08
+08:00 analise de os 1043060
+08:20 daily scrum
+08:50 analise de os 1043060
+09:24 auxilio henriques
+09:40 auxilio cavazin
+10:20 levantamento de requisito 1043060
+11:30 almoço
+
+13:30 atraso
+13:49 retrospectiva
+13:55 auxilio rafael
+14:02 auxilio jonatan
+14:09 analise de os 1043524
+14:40 levantamento de requisito 1043584
+16:15 projeto sp1 contabil
+16:35 café
+16:50 analise de os 1041546
+17:19 auxilio suporte henriques / jonatas
+17:40 review 1036623
+18:15 fim
+
+10/08
+08:00 atraso
+08:03 sp1
+08:20 levantamento de requisito 1043984
+08:41 analise de os 1043060
+09:40 banheiro
+09:50 analise de os 1043060
+10:20 review 1036623
+11:00 retrospectiva
+11:30 auxilio jonatas/ henriques
+12:03 almoço
+
+13:30 atraso
+13:40 auxilio jonatas
+13:46 atendimento 1043400
+14:15 auxilio henriques
+14:30 atendimento 1043400
+15:10 banheiro
+15:20 analise de os 1044115
+16:00 analise de os 1044237
+16:25 café 
+16:40 auxilio jonatas
+17:00 levantamento de requisito 1044237
+18:00 auxilio lucas delgado
+18:05 fim
+
+11/08
+08:00 analise de os 1044115
+08:20 reuniao vr
+09:10 analise de os 1044115
+10:14 analise de os 1044270
+11:00 analise de os 1044115
+12:32 almoço
+
+13:30 analise de os 1044115
+13:55 analise de os 1043702
+14:05 analise de os 1043706
+15:30 analise de os 1044115
+16:45 auxilio jonatas
+17:20 levantamento de requisito 1044652
+17:35 analise de os 1044115
+18:17 fim
+
+12/08
+08:00 atraso
+08:06 analise de os 1044115
+08:20 daily scrum
+08:50 analise de os 1044115
+12:00 almoço
+
+13:30 analise de os 1044115
+13:50 levantamento de requisito 1044848
+14:14 analise de os 1044115
+15:30 analise de os 1041546
+17:30 analise de os 1044115
+18:15 fim
+
+13/08
+08:00 analise de os 1044115
+08:20 daily scrum
+08:40 banheiro
+08:50 auxilio sonia novo tempo
+09:10 analise de os 1044115
+12:26 almoço
+
+13:30 levantamento de requisito 1044115
+14:30 auxilio jonatas
+14:55 review 1039779
+15:25 levantamento de requisito 1030058
+16:25 auxilio jonatas
+16:40 levantamento de requisito 1030058
+16:55 auxilio jonatas
+17:00 café
+17:15 auxilio jonatas
+17:45 levantamento de requisito 1045204
+18:13 fim
+
+14/08
+08:00 levantamento de requisito 1045204
+08:20 daily scrum 
+08:45 levantamento de requisito 1045204
+09:00 auxilio desenvolvimento filipe
+09:10 levantamento de requisito 1030058
+09:40 auxilio desenvolvimento cassiano/kajihara
+09:45 levantamento de requisito 1030058
+11:20 review os 1045204
+11:30 levantamento de requisito 1030058
+12:08 almoço
+
+13:30 retrospectiva
+14:10 levantamento de requisito 1030058
+16:06 auxilio lucas delgado/jonatas
+17:30 projeto qualidade
+17:50 auxilio maikon/lucas delgado
+19:00 fim
+
+17/08
+08:00 atraso
+08:03 sp1 
+08:23 analise de os 1045654
+09:10 release notes
+09:25 analise de os 1045654
+10:00 auxilio jonatas
+10:20 levantamento de requisito 1045654
+11:00 retrospectiva
+11:40 levantamento de requisito 1045654
+12:07 almoço
+
+13:30 levantamento de requisito 1045654
+14:04 levantamento de requisito 1030058
+16:05 café
+16:20 check list 
+18:05 fim
+
+18/08
+08:00 atraso
+08:20 reuniao vr
+08:55 levantamento de requisito 1046178
+09:05 check list
+10:25 review 1039093 
+11:30 review 1044115
+12:00 almoço
+
+13:30 review 1044115
+14:00 review 1039093 
+16:00 analise de os 1038970
+18:20 auxilio thaina
+18:26 analise de os 1044115
+19:40 fim
+
+19/08
+08:00 atraso
+08:10 verificando apontamento
+08:17 daily scrum
+08:30 review 1039093 
+09:30 analise de os 1038970
+09:45 daily scrum
+09:55 analise de os 1038970
+10:13 auxilio desenvolvimento guilherme bareta/rafael
+10:20 auxilio suporte jonatas
+10:25 analise de os 1038970
+11:00 auxilio jonatas
+12:15 almoço
+
+13:30 analise de os 1038970
+14:00 auxilio jonatas
+15:30 auxilio desenvolvimento kajihara
+15:38 analise de os 1046686
+16:15 café
+16:30 analise de os 1038970
+18:00 fim
+
+20/08
+08:00 atraso
+08:10 review 1039093
+08:17 daily scrum
+08:28 review 1039093
+09:30 levantamento de requisito 1045698
+10:00 banheiro
+10:10 review 1039093
+11:00 levantamento de requisito 1030058
+11:30 review 1043984
+12:04 almoço
+
+13:30 review 1043984
+13:37 reuniao gustavo
+13:50 review 1043984
+14:30 levantamento de requisito 1045698
+15:00 review 1043984
+16:50 analise de os 1046519
+16:55 levantamento de requisito 1043706
+17:30 review 1043984
+18:05 fim
+
+21/08
+08:00 atraso
+08:08 check list
+08:20 daily scrum
+08:30 check list
+08:50 auxilio lucas ramos
+09:20 levantamento de requisito 1046960
+09:35 auxilio angelica
+10:00 levantamento de requisito 1046960
+10:30 check list
+11:24 banheiro
+11:29 auxilio jonatas
+11:34 review 1043984
+11:58 auxilio cavazin
+12:09 almoço
+
+13:30 atraso
+13:35 retrospectiva
+13:50 auxilio cavazin
+14:39 levantamento de requisito 1047453
+14:50 levantamento de requisito 1047393
+15:30 projeto sgcontabil
+15:55 auxilio jonatas
+16:00 auxilio kajihara
+16:13 levantamento de requisito 1047393
+16:30 auxilio jonatas / angelica
+17:13 reuniao gustavo/adriano
+17:30 analise de os 1034135
+18:22 fim 
+
+24/08
+08:00 sp1
+08:25 analise de os 1034135
+09:09 auxilio jonatan / ederson
+09:15 analise de os 1034135
+09:34 auxilio lucas delgado mdfe
+11:00 retrospectiva
+11:42 review 1043984
+11:53 auxilio kajihara
+12:10 almoço
+
+13:30 review 1043984
+14:00 analise de os 1038970
+16:30 review 1043984
+17:30 analise de os 1034135
+18:30 fim
+
+25/08
+08:00 analise de os 1038970
+08:20 reuniao vr
+09:00 analise de os 1038970
+10:30 banheiro
+10:35 analise de os 1038970
+12:08 almoço
+
+13:30 atraso
+13:33 analise de os 1038970
+13:59 saida - exame sg
+15:58 levantamento de requisito 1038970
+17:30 levantamento de requisito 1043706
+18:05 fim
+
+08/09
+07:56 organizacao ambiente
+08:00 sp1 contabil
+08:21 sp1 deep
+09:30 auxilio angelica
+09:35 analise de os 1012329
+09:53 banheiro
+10:00 reuniao adriano
+11:00 retrospectiva
+11:30 banheiro
+11:35 reuniao gustavo
+11:50 analise de os 1012329
+12:05 almoço
+
+13:30 analise de os 1012329
+14:00 reuniao vr
+14:55 analise de os 1050341
+16:00 analise de os 1051239
+16:20 café
+16:35 analise de os 1012329
+17:00 levantamento de requisito 1051239
+18:05 fim
+
+09/09
+08:00 analise de os 1048503
+09:00 retrospectiva deep
+09:40 organizacao de ambiente - telefone não funciona
+10:05 levantamento de requisito 1051660
+10:32 levantamento de requisito 1051785
+11:15 atendimento gbs
+11:30 analise de os 1048503
+11:45 levantamento de requisito 1051239
+12:00 verificando apontamento
+12:05 almoço
+
+13:30 analise de os 1037875
+13:40 levantamento de requisito 1051660
+13:50 auxilio filipe 1048046
+14:05 analise de os 1051239
+14:30 levantamento de requisito 1051660
+15:10 auxilio kajihara
+15:21 levantamento de requisito 1051660
+15:35 auxilio angelica
+15:45 analise de os 1045697
+16:00 organizacao ambiente sgcontabil
+16:15 analise de os 1045697
+17:15 auxilio lucas ramos
+17:22 analise de os 1045697
+17:35 analise de os 1051239
+18:05 fim
+
+10/09
+08:00 analise de os 1012329
+08:40 analise de os 1049573
+09:48 analise de os 1051787
+09:50 auxilio kajihara
+09:55 organizando os deep
+10:10 analise de os 1050520
+10:20 reuniao adriano
+10:45 levantamento de requisito 1051988
+11:57 auxilio filipe
+12:07 almoço
+
+13:30 auxilio ederson
+13:40 analise de os 1049573
+14:15 auxilio naiara
+14:25 auxilio ederson
+14:35 analise de os 1052129
+14:40 levantamento de requisito 1052129
+15:08 merge 1051785
+15:10 analise de os 1041906 - gustavo
+15:25 analise de os 1050341
+15:40 auxilio delton
+15:52 analise de os 1050341
+16:17 auxilio claudinei os 1051609
+16:25 auxilio jonatan
+16:50 analise de os 1052144
+17:00 auxilio jonatan
+17:45 analise de os 1050341
+18:25 fim
+
+11/09
+08:00 criando trello deep
+09:30 sizing deep
+10:40 analise de os 1052144
+10:45 auxilio kajihara
+10:50 auxilio angelica
+10:53 analise de os 1052144
+10:57 auxilio ederson
+11:13 auxilio filipe 
+11:30 levantamento de requisito 1052144
+12:10 almoço
+
+13:30 retrospectiva qualidade
+14:00 auxilio angelica
+14:10 criando trello deep
+14:25 auxilio ederson
+14:35 analise de os 1051000
+14:50 auxilio kajihara
+14:57 auxilio filipe
+15:04 analise de os 1051000
+15:37 sizing contabil
+16:00 projeto sp1 contabil
+16:20 projeto qualidade
+16:42 analise de os 1045688
+16:51 auxilio jonatan
+17:00 criando trello deep
+17:10 auxilio jonatas
+17:30 projeto sp1 deep
+18:11 auxilio jonatas
+18:25 fim
+
+14/09
+08:00 sp1 contabil
+08:24 sp1 deep
+11:15 banheiro
+11:20 reuniao adriano
+11:40 auxilio gustavo
+12:10 almoço
+
+13:30 atraso
+13:34 analise de os 1046963
+13:44 analise de os 1051785
+14:00 release notes sgcontabil
+14:16 organizando trello deep
+14:40 ata alteracoes ticket
+14:50 reuniao fiscal
+15:30 reuniao novo tempo
+16:10 organizando trello deep
+16:15 analise de os 1046963
+16:40 release notes deep
+18:49 fim
+
+15/09
+08:00 organizando trello contabil
+08:11 daily scrum
+08:15 levantamento de requisito 1053108
+08:40 levantamento de requisito 1052098
+09:00 retrospectiva deep
+09:30 auxilio kajihara / filipe /angelica / claudinei
+10:20 merge 1037875
+10:25 auxilio kajihara / filipe /angelica / claudinei
+11:00 levantamento de requisito 1052098
+11:07 ata review
+11:15 organizando trello deep
+11:27 auxilio angelica
+11:34 analise de os 1046963
+12:15 almoço
+
+13:30 analise de os 1052811
+13:55 analise de os 1051887
+14:10 analise de os 1046963
+15:20 analise de os 1051887
+15:50 auxilio laercio
+16:15 review 1052371
+16:25 merge 1052371
+16:28 analise de os 1051707
+16:45 analise de os 1050090 
+17:39 auxilio filipe 
+17:50 analise de os 1051707
+18:40 apontamento
+
+16/09
+08:00 atraso
+08:04 analise de os 1051707
+08:10 daily scrum
+08:15 analise de os 1051707
+09:00 auxilio angelica
+09:13 banheiro
+09:19 auxilio angelica
+09:50 review 1046178
+10:07 auxilio angelica
+10:12 reuniao encerramento
+10:31 review 1046178
+10:40 auxilio angelica
+11:45 analise de os 1052560
+11:51 auxilio kajihara
+11:59 analise de os 1052560
+12:10 almoço
+
+13:32 analise de os 1052560
+15:00 levantamento de requisito 1046963
+15:35 merge 1049396
+15:40 auxilio arielson/kajihara
+16:00 analise de os 1052560
+16:35 analise de os 1051239
+16:40 analise de os 1045688
+16:48 levantamento de requisito 1046963
+17:07 auxilio filipe
+17:27 auxilio rodrigo fossa
+17:40 analise de os 1053649
+18:10 fim
+
+17/09
+08:00 atraso
+08:06 verificando apontamento
+08:15 auxilio lucas tomasseli
+08:25 review 1051660
+09:10 levantamento de requisito 1046963
+09:40 analise de os 1053649 
+11:04 auxilio rodrigo fossa
+11:20 auxilio filipe
+11:29 auxilio angelica
+11:36 analise de os 1053649 
+11:53 auxilio angelica
+11:58 merge 1053486
+12:04 almoço
+
+13:26 merge 1040429
+13:30 montando ambiente os 1053649
+15:03 auxilio lucas tomasseli
+15:15 montando ambiente os 1053649
+15:30 auxilio gustavo braz
+15:40 auxilio ana sgcontabil
+16:49 analise de os 1053649
+16:54 café
+17:05 levantamento de requisito 1053649
+19:00 fim
+
+18/09
+08:00 atraso
+08:10 apontamento
+08:23 daily scrum
+08:26 auxilio ederson 
+08:50 banheiro
+08:58 verificando NC auditoria
+09:31 auxilio angelica
+09:36 auxilio filipe
+09:40 analise de os 1054071
+09:53 auxilio jonatas
+10:00 analise de os 1052560
+10:20 analise de os 1053943
+12:37 almoço
+
+13:30 atraso
+13:36 retrospectiva qualidade
+13:40 analise de os 1053943
+14:00 treinamento adrc-st
+15:25 analise de os 1054227 e 1054242 fernando
+15:40 analise de os 1054173
+17:28 analise de os 1053943
+18:02 fim
+
+08:00 sp1 sgcontabil
+08:20 sp1 deep
+11:14 retrospectiva analise
+11:40 ata alteração ticket deep
+11:50 analise de os 1048358/1013149/1020797
+12:07 almoço
+
+13:30 atraso
+13:33 apontamento
+13:37 analise de os 1052560
+14:00 reuniao fiscal
+14:30 analise de os 1054486
+14:40 auxilio kajihara
+14:45 analise de os 1054467
+15:20 analise de os 1054522
+15:50 levantamento de requisito 1054522
+16:07 auxilio kajihara
+16:15 analise de os 1053972 
+16:35 auxilio kajihara
+16:50 auxilio filipe
+17:00 analise de os 1052560
+18:35 fim
+
+22/09
+08:00 organizando trello deep
+08:12 auxilio filipe
+08:21 organizando trello deep
+08:32 daily scrum
+08:36 auxilio angelica
+08:40 retrospectiva deep
+09:10 auxilio henriques
+09:20 banheiro
+09:25 analise de os 1048399
+10:00 analise de os 1053529
+10:20 analise de os 1052560
+10:32 banheiro
+10:38 analise de os 1052560
+10:49 auxilio kajihara - os 1054426 cte substituto
+11:44 analise de os 935224
+12:02 auxilio claudinei 1053972
+12:20 almoço
+
+13:30 atraso
+13:37 apontamento
+13:39 auxilio filipe
+13:41 auxilio angelica
+13:45 apontamento
+13:55 analise de os 935224
+14:00 analise de os 977646
+14:16 merge 1048117
+14:30 analise de os 1054292
+15:04 analise de os 1031400
+15:35 analise de os 1054292
+16:00 levantamento de requisito 1013149
+16:50 analise de os 1053972
+17:45 merge 1045383
+17:50 analise de os 1053972
+18:12 fim
+
+23/09
+08:00 analise de os 1053972
+08:32 auxilio filipe 
+08:50 analise de os 1053972
+09:48 auxilio arielson
+10:00 auxilio reinaldo cabrijana
+10:15 review 1054522
+12:20 almoço
+
+13:30 analise de os 1055138
+14:46 auxilio angelica
+14:59 merge 1055051
+15:03 levantamento de requisito 1055138
+15:50 auxilio angelica
+15:55 levantamento de requisito 1055138
+16:38 auxilio angelica
+16:50 levantamento de requisito 1055138
+16:57 auxilio angelica
+17:03 café
+17:15 auxilio angelica 
+17:20 auxilio cassiano
+17:30 levantamento de requisito 1013149
+17:41 auxilio angelica 
+17:50 merge 1012493
+17:55 levantamento de requisito 1013149
+18:07 fim
+
+24/09
+08:00 apontamento
+08:12 auxilio arielson
+08:42 auxilio izabela
+08:47 daily scrum
+08:50 analise de os 975458 
+09:00 analise de os 1054884
+09:40 analise de os 1055112
+10:01 analise de os 1054884
+10:27 auxilio claudinei 1055138
+10:40 levantamento de requisito 1055466
+11:17 banheiro
+11:22 analise de os 1055138
+11:35 merge 1053649
+11:40 levantamento de requisito 1055505
+11:55 merge 1046963
+12:00 auxilio jonatas 
+12:21 apontamento
+12:25 almoço
+
+13:30 organizando trello deep
+13:40 levantamento de requisitos 1013149
+13:50 auxilio eduardo hp
+14:05 levantamento de requisitos 1013149
+14:57 auxilio paulo mdfe
+18:42 fim
+
+25/09
+08:00 levantamento de requisitos 1013149
+10:30 analise de os 1052560
+12:30 almoço
+
+13:30 atraso
+13:35 retrospectiva qualidade
+13:45 analise de os 1052560
+14:11 analise de os 1052017
+14:25 auxilio eduardo 
+15:18 analise de os 1055760
+16:00 projeto deep sp1
+17:00 levantamento de requisitos 1055154
+18:55 fim
+
+26/09 
+09:10 levantamento de requisito 1013149
+09:20 merge 1030156
+09:25 levantamento de requisito 1013149
+09:40 levantamento de requisito 1048358
+12:04 banheiro
+12:08 analise de os 1013149
+13:38 fim
+
+28/09
+08:00 sp1 contabil
+08:10 sp1 deep
+10:21 organizando trello
+10:40 analise de os 977646
+11:03 retrospectiva analise
+11:26 merge 1030156
+11:30 analise de os 1056215
+12:10 almoço
+
+13:30 atas deep
+13:40 organizando trello deep
+14:00 merge 1055697/1051695
+14:08 auxilio carlos boza
+14:19 auxilio filipe / kajihara
+15:00 auxilio angelica/jonatas
+15:30 analise de os 1056215
+16:35 analise de os 1056444
+17:48 auxilio cassiano
+18:13 auxilio jonatas
+18:17 fim
+
+29/09
+08:00 montando ambiente 1013149
+08:30 analise de os 1050848
+09:00 retrospectiva deep
+09:25 analise de os 1050848
+09:45 merge 1055112
+09:50 analise de os 1049174
+10:00 analise de os 1053723 (ajuda do adriano)
+10:20 auxilio kajihara/filipe
+10:50 analise de os 1049174
+11:40 levantamento de requisito 1055140
+12:10 almoço
+
+13:30 merge 1053943
+13:35 analise de os 1054884
+13:50 auxilio arielson
+13:55 analise de os 1054884
+14:00 auxilio angelica
+14:05 reuniao fiscal
+14:40 analise de os 1054884
+15:25 auxilio filipe
+15:45 analise de os 1054884
+15:50 merge 1051787
+16:00 levantamento de requisito 1054884
+16:30 levantamento de requisito 1056775
+16:50 levantamento de requisito 1055906
+17:20 auxilio angelica
+17:25 levantamento de requisito 1055906
+17:45 analise de os 1056497
+17:50 analise de os 1056747
+18:00 auxilio kajihara 1056497
+18:15 fim
+
+30/09
+08:00 review 1048358
+08:30 auxilio arielson 1056747
+08:50 analise de os 1056494
+09:11 review 1048358
+09:45 atendimento ana 1056907
+10:20 auxilio kajihara
+11:02 analise de os 1055957
+11:30 merge 1056444
+11:35 analise de os 1055926
+12:05 almoço
+
+13:30 treinamento pablo
+14:50 analise de os 1056634
+15:00 analise de os 1056747
+15:39 merge 1056433
+15:45 analise de os 1055926
+16:08 analise de os 1056747
+16:20 auxilio kajihara
+16:48 auxilio gustavo
+16:58 analise de os 1056747
+17:10 levantamento de requisito 1055805
+17:15 merge 1050610
+17:20 banheiro
+17:30 analise de os 1055926
+17:45 levantamento de requisito 1056906
+18:06 fim
+
+01/10
+08:00 analise de os 1056311
+08:34 auxilio gabriel 1056494/filipe
+10:33 auxilio angelica/jonatas
+10:46 montando ambiente 1056494
+11:17 analise de os 1055886
+11:30 montando ambiente 1056494
+12:05 almoço
+
+13:33 analise de os 1057310
+14:48 merge 1052129
+15:00 auxilio angelica
+15:12 auxilio lucas ramos
+15:30 auxilio gabriel
+16:00 analise de os 1056382
+16:28 analise de os 1051309
+16:46 analise de os 1056382
+16:57 auxilio angelica
+17:39 analise de os 1056382
+18:30 fim
+
+02/10
+08:00 atraso
+08:10 analise de os 1056382
+09:30 auxilio jonatas
+10:00 levantamento de requisito 1053832
+10:20 levantamento de requisito 1055805
+10:45 analise de os 1056079
+11:15 levantamento de requisito 1054877
+11:30 analise de os 1056079
+12:00 levantamento de requisito 1056079
+12:15 almoço
+
+13:33 retrospectiva
+13:40 levantamento de requisito 1046673
+14:00 apontamento
+14:11 merge 1056382
+14:15 apontamento
+14:23 analise de os 1055941
+14:45 sizing contabil
+15:01 auxilio claudnei
+15:20 projeto sp1 contabil 
+15:30 auxilio jonatas
+15:40 analise de os 1055941
+18:15 fim
+
+05/10
+08:00 sp1 contabil
+08:15 sp1 deep
+10:27 organizando trello deep
+10:45 geracao de atas
+11:00 retrospectiva contabil
+11:20 organizando trello deep
+11:47 analise de os 1051309
+12:02 almoço
+
+13:30 atraso
+13:33 auxilio angelica
+14:00 reuniao fiscal
+15:00 auxilio henriques
+15:20 analise de os 1054033
+15:40 analise de os 1058209
+16:20 merge 1056494
+16:30 levantamento de requisito 1058191
+17:30 analise de os 1058180
+18:20 fim
+
+06/10
+08:00 atraso
+08:08 analise de os 1058180
+09:00 retrospectiva deep
+09:25 verificar paf ecf SC
+10:03 auxilio carlos/gustavo braz
+10:14 verificar paf ecf SC
+11:00 auxilio carlos/gustavo braz
+11:22 auxilio ederson
+11:40 verificar paf ecf SC
+12:00 auxilio cassiano
+12:12 almoço
+
+13:30 atraso
+13:37 pesquisa paf ecf
+13:42 auxilio filipe
+13:53 pesquisa paf ecf
+14:00 auxilio claudinei
+14:30 auxilio gustavo braz
+15:00 analise de os 1057487
+15:43 auxilio renan cloud
+15:50 analise de os 1058312
+16:20 levantamento de requisito 1057487
+17:00 analise de os 1058041
+17:40 levantamento de requisito 1058208
+18:20 fim
+
+07/10
+08:00 atraso
+08:05 auxilio gabriel
+08:10 levantamento de requisito 1058180
+08:45 merge 1052811
+08:50 levantamento de requisito 1057493
+09:00 auxilio angelica 
+09:04 levantamento de requisito 1057493
+09:10 auxilio filipe
+09:20 pesquisa paf ecf sc
+10:50 analise de os 1058042
+11:40 analise de os 1055941
+11:50 auxilio filipe 
+12:10 almoco
+
+13:30 auxilio kajihara
+13:40 review 1054877/1056079
+14:25 merge 1058622
+14:30 review 1054877/1056079
+14:38 auxilio jonatan
+14:47 review 1054877/1056079
+15:20 reuniao sgfisco
+15:50 merge 1058312
+16:00 auxilio jonatas
+16:39 analise de os 1058041
+17:15 auxilio filipe
+17:30 auxilio jonatas
+18:00 auxilio filipe
+18:07 analise de os 1058041
+18:35 fim
+
+08/10
+08:00 atraso
+08:05 apontamento
+08:30 analise de os 1058041
+10:34 merge 1027089
+10:40 auxilio filipe
+10:53 auxilio edgar
+11:04 auxilio jonatan
+11:25 auxilio henriques
+11:30 auxilio jonatas
+11:32 analise de os 1057100
+11:50 analise de os 1059067
+12:07 almoço
+
+13:30 atraso
+13:34 analise de os 1059067
+14:00 analise de os 1057100
+15:00 analise de os 1059067
+15:25 analise de os 1058191
+15:40 analise de os 1059169
+16:00 levantamento de requisito 1049183
+17:00 analise de os 1058928
+18:30 fim
+
+09/11
+08:00 levantamento de requisito 1049183
+08:11 analise de os 1058928
+08:39 levantamento de requisito 1058386
+09:00 analise de os 1049183
+09:44 auxilio jonatas/angelica
+10:18 banheiro
+10:30 analise de os 984375
+10:35 analise de os 1058041
+10:41 auxilio filipe
+10:44 analise de os 1049183
+12:00 almoço
+
+13:30 retrospectiva
+13:56 auxilio cassiano/kajihara
+14:14 analise de os 1058940
+14:30 auxilio lucas ramos 
+14:40 projeto qualidade
+15:05 auxilio gustavo
+15:16 auxilio jonatas
+15:20 projeto sp1 deep
+15:34 auxilio kajihara
+16:00 cafe
+16:15 analise de os 1058940
+17:18 levantamento de requisito 1058925
+17:30 merge 1058116
+17:35 levantamento de requisito 1058925
+18:00 auxilio kajihara
+18:13 levantamento de requisito 1058934
+18:30 fim
+
+13/10
+08:00 sp1 deep
+09:35 ordenar os deep
+09:47 analise de os 1059450
+10:03 reuniao gustavo
+10:20 analise de os 1059530
+10:26 organizando trello deep
+10:31 auxilio jonatas
+10:37 release notes sgcontabil
+11:00 retrospectiva contabil
+11:30 release notes sgcontabil
+11:36 apontamento
+12:11 almoço
+
+13:30 atraso
+13:33 auxilio claudinei
+13:55 geracao de atas
+14:04 organizando trello deep
+14:10 reuniao fiscal
+14:45 auxilio claudinei
+15:00 retrospectiva deep
+15:45 analise de os 1059450
+16:10 release notes deep
+17:45 analise de os 1028830
+17:56 analise de os 1059450
+18:00 organizando trello deep
+18:11 fim
+
+14/10
+08:00 atraso
+08:08 levantamento de requisito 1058940
+09:30 analise de os 1057100
+10:10 reuninao encerramento
+10:27 analise de os 1057100
+10:52 auxilio jonas
+11:11 auxilio henriques
+11:25 analise de os 1059813
+11:40 auxilio thaina
+11:50 merge 1058208
+12:00 analise de os 1059526
+12:19 almoço
+
+13:30 analise de os 1059526
+14:20 analise de os 1041988
+15:08 analise de os 1059813
+16:30 merge 1013149
+16:35 levantamento de requisitos 1059813 
+17:00 auxilio 1054342 lucas tomazeli
+18:35 fim
+
+15/10
+08:00 levantamento de requisito 1058940
+09:00 auxilio filipe
+09:30 analise de os 1059458
+10:10 analise de os 1059813
+10:20 levantamento de requisitos 1059458
+11:26 auxlio eduardo hp 1055934
+12:30 almoço
+
+13:30 atraso
+13:47 analise de os 1055934
+14:08 auxilio filipe
+14:10 levantamento de requisito 1060784
+14:40 analise de os 1060366
+15:14 merge 1059450
+15:20 analise de os 1060559
+15:40 analise de os 1055934
+16:00 merge 1059813
+16:08 levantamento de requisito 1055934
+16:40 auxilio angelica
+17:00 auxilio filipe
+17:20 levantamento de requisito 1055934
+17:34 auxilio angelica/augusto
+18:00 review 1058424
+18:30 fim
+
+16/10
+08:00 atraso
+08:08 apontamento
+08:25 analise de os 1058424
+08:37 levantamento de requisito 1057100
+09:27 merge 1056775
+09:31 levantamento de requisito 1057100
+12:07 almoço
+
+13:30 atraso
+13:38 review 1058424
+13:51 review 1052811
+14:10 levantamento de requisito 1060748
+14:30 review 1052811
+15:04 merge 1047487
+15:09 auxilio filipe
+15:20 sizing contabil
+15:30 projeto contabil sp1
+16:41 analise de os 1060569
+18:45 fim
+
+19/10
+08:00 sp1 contabil
+08:12 sp1 deep
+10:07 ordenar os deep
+10:30 banheiro
+10:40 organizando trello deep
+10:50 geracao de atas
+10:57 analise de os 1061246
+11:02 retrospectiva analise 
+11:20 analise de os 1061428
+11:40 analise de os 1059526
+12:00 auxilio angelica
+12:10 almoço
+
+13:30 particular
+13:53 merge 1041663 
+14:02 reuniao fiscal 
+14:30 auxilio kajihara
+14:38 organizando trello deep
+14:45 merge 1055886
+14:50 analise de os 1059169
+15:16 merge 1047260/1054280
+15:22 analise de os 1059169
+15:47 analise de os 1061643
+16:10 analise de os 1054299
+16:40 merge 1041165
+16:45 analise de os 1054342
+17:30 analise de os 1054299
+18:28 fim
+
+20/10
+08:00 atraso
+08:10 analise de os 1035052
+08:15 review 1052811
+08:50 analise de os 1060569
+09:00 retrospectiva deep
+09:15 merge 1055805
+09:20 auxilio angelica
+09:30 analise de os 1056730
+10:11 auxilio carlos 1061226
+10:33 analise de os 1056730
+11:06 analise de os 1056141
+11:20 analise de os 1056730
+12:10 almoço
+
+13:30 analise de os 1061909
+13:39 levantamento de requisito 1056730
+14:00 reuniao alinhamento
+15:32 banheiro
+15:39 auxilio filipe
+15:42 analise de os 939674
+15:54 auxilio jonatan
+16:01 levantamento de requisito 1056730
+16:17 merge 1056215
+16:23 analise de os 939674
+16:39 analise de os 1061901
+17:04 analise de os 1055934
+17:59 analise de os 1053723
+18:10 levantamento de requisito 1061901
+18:30 fim
+
+21/10
+08:00 organizando trello
+08:15 treinamento lista de preços adriano
+08:37 auxilio kajihara/claudinei
+08:57 analise de os 1053723
+09:06 banheiro
+09:14 analise de os 1053723
+09:25 auxilio gabriel
+09:45 levantamento de requisito 1062194
+10:10 auxilio filipe
+10:17 levantamento de requisito 1062194
+10:29 merge 1056141
+10:34 analise de os 1060569
+10:36 auxilio claudinei 1061901
+10:51 reuniao encerramento qualidade
+11:10 auxilio angelica
+11:19 analise de os 1060569
+11:43 auxilio angelica
+11:48 auxilio cassiano
+12:00 analise de os 1060569 
+12:32 almoço
+
+13:30 organizando trello deep
+13:40 merge 1055934
+13:45 analise de os 1060569 
+14:15 analise de os 1061901
+14:30 merge 1054884/1059952
+14:38 analise de os 1061901
+15:03 merge 1059458
+15:06 analise de os 1061901
+18:00 fim
+
+22/10
+08:00 analise de os 1058282
+08:17 levantamento de requisito 1062522
+08:30 merge 1060784
+08:36 analise de os 1061963
+09:00 auxilio filipe
+09:47 auxilio maikon
+10:40 analise de os 1061963
+10:47 auxilio carlos 1057567
+11:35 auxilio maikon
+12:15 almoço
+
+13:30 atraso
+13:35 auxilio filipe 
+14:08 analise de os 1062479
+14:30 auxilio filipe
+14:50 analise de os 1062546
+16:05 analise de os 1061963
+16:15 auxlio lucas ramos 1061527
+17:00 auxilio ederson
+17:03 auxilio cassiano
+17:25 analise de os 1062026
+17:30 analise de os 1061963
+18:16 auxilio jonatas
+18:19 analise de os 1061963
+18:35 fim
+
+23/10
+08:00 organizando trello deep
+08:10 merge 1058191
+08:20 analise de os 1020797
+08:30 levantamento de requisito 1057559
+09:15 analise de os 1061749
+10:20 auxilio gabriel/kajihara
+10:40 auxilio lucas tomazeli
+11:00 levantamento de requisito 1062703
+11:36 analise de os 1061749
+12:05 almoço
+
+13:30 atraso
+13:35 retrospectiva
+13:40 organizando trello
+13:55 levantamento de requisito 1057567
+14:14 analise de os 1062853
+14:21 auxilio hp 
+16:15 auxilio gabriel 
+16:23 analise de os 1062529
+16:25 levantamento de requisito 1062987
+17:20 analise de os 1063147
+17:40 analise de os 1063049
+18:00 merge 1062703
+18:05 levantamento de requisito 1020797
+18:25 projeto sp1 deep
+18:50 levantamento de requisito 1057559
+19:03 fim
+
+26/10
+08:00 sp1 contabil
+08:32 sp1 deep
+10:32 organizando trello deep
+11:00 retrospectiva analise
+11:17 analise de os 1061509
+11:25 geração de atas
+11:35 levantamento de requisito 1063346
+12:00 merge 1054695
+12:07 almoço
+
+13:30 analise de os 1061509
+13:35 analise de os 1057357
+14:03 analise de os 1063426
+14:15 organizando trello deep
+14:27 analise de os 1062529
+14:57 analise de os 1059526
+15:15 analise de os 1062529
+15:38 auxilio jonatas
+16:05 auxilio jonatan
+16:32 analise de os 1062529
+16:42 auxilio sonia
+16:47 auxilio kajihara
+17:01 analise de os 1062529
+18:18 fim
+
+27/10
+08:00 atraso
+08:08 analise de os 1062529
+08:20 analise de os 1062479
+08:40 passar os backlog aguardando
+09:00 retrospectiva deep
+09:25 analise de os 1063588
+09:40 analise de os 1063455
+11:00 merge 1056969
+11:10 levantamento de requisito 1062678
+11:45 analise de os 1061909
+11:50 analise de os 1062479
+12:10 almoço
+
+13:30 analise de os 1062479
+14:00 reuniao fiscal
+15:15 auxilio kajihara
+15:30 auxilio angelica
+15:45 merge 1041663
+15:55 auxilio angelica
+16:09 merge 1063049/1063588
+16:20 levantamento de requisito 1063337
+18:07 fim
+
+28/10
+08:00 apontamento
+08:09 analise de os 946397
+08:13 organizando os nome
+08:19 analise de os 1061623
+08:25 levantamento de requisito 1063337
+08:53 analise de os 1063147
+09:30 auxilio kajihara
+09:38 merge 1058011/1062681
+09:43 analise de os 1063147
+10:20 levantamento de requisito 1064000
+10:40 analise de os 1063147
+11:00 levantamento de requisito 1064025
+11:24 levantamento de requisito 1063582
+12:06 almoço
+
+13:33 levantamento de requisito 1063582
+14:50 analise de os 1061909
+15:00 merge 1057100
+15:07 analise de os 1061909
+15:20 analise de os 1063455
+16:29 analise de os 1055118
+17:20 café
+17:30 merge 1064000
+17:35 analise de os 1063695
+18:00 levantamento de requisito 1063695
+18:15 fim
+
+29/10
+08:00 atraso
+08:05 levantamento de requisito 1063695
+08:23 analise de os 1064141
+08:56 merge 1062678
+09:05 levantamento de requisito 1063695
+09:14 banheiro
+09:24 auxilio kajihara 1029121
+12:08 almoço
+
+13:30 analise de os 1063520
+14:00 merge 1063582
+14:10 analise de os 1063520
+14:40 auxilio jonatas
+16:03 café
+16:15 auxilio kajihara
+16:22 analise de os 1062832
+16:50 merge 1061909
+17:00 levantamento de requisito 1062832
+18:15 fim
+
+30/10
+08:00 atraso
+08:06 analise de os 1061131
+09:00 analise de os 1056991
+09:15 analise de os 1030151
+09:38 analise de os 1060907
+09:50 analise de os 1058537
+10:10 analise de os 1062709
+10:30 analise de os 1061859
+11:20 analise de os 1041988
+12:00 almoço
+
+13:30 atraso
+13:38 retrospectiva
+13:43 auxilio gabriel
+13:50 auxilio marcos
+14:00 auxilio vanessa
+14:05 auxilio kajihara
+14:10 analise de os 1041988
+14:37 analise de os 1054679
+15:28 auxilio kajihara
+15:35 analise de os 1054426
+16:00 analise de os 1064790
+16:20 analise de os 1064433
+16:45 auxilio renan
+17:00 analise de os 1063455
+17:30 auxilio renan
+17:50 auxilio filipe
+18:05 fim
+
+03/11
+08:00 sp1 contabil
+08:12 sp1 deep
+09:38 ordenar os fila
+10:00 auxilio angelica
+10:10 banheiro
+10:16 analise de os 1064433
+11:00 retrospectiva analise
+11:25 analise de os 1064433
+11:55 geracao de atas
+12:18 almoço
+
+13:30 analise de os 1064433
+14:10 reuniao fiscal
+14:33 levantamento de requisito 1065239
+15:00 analise de os 1063337
+16:19 merge 1064790
+16:22 analise de os 1065290
+16:50 auxilio filipe
+17:44 analise de os 1065290
+18:05 fim
+
+04/11
+08:00 analise de os 1025502
+08:20 analise de os 989228
+08:33 levantamento de requisito 1025502
+09:00 auxilio angelica
+09:35 merge 1061246
+09:40 auxilio thaina/ederson
+10:03 analise de os 1064860
+10:10 merge 1061643
+10:15 analise de os 1044457
+10:33 analise de os 1063455
+10:45 analise de os 1027049
+10:55 auxilio angelica
+11:20 banheiro
+11:30 auxilio kajihara / claudinei
+11:40 retrospectiva deep 
+12:06 almoço
+
+13:30 analise de os 1040726
+13:47 analise de os 1049048
+14:45 levantamento de requisito 1064478
+16:15 auxilio thaina
+16:30 auxilio filipe/kajihara
+16:40 analise de os 1029121 
+16:50 levantamento de requisito 1064478
+17:20 auxilio filipe
+17:47 auxilio cassiano
+18:10 auxilio filipe
+18:22 fim
+
+05/11
+08:00 levantamento de requisito 1063380
+08:30 analise de os 1065749
+09:03 analise de os 1065533
+09:30 levantamento de requisito 1065533
+10:06 analise de os 1029121
+10:16 analise de os 1049163
+10:30 levantamento de requisito 1049163
+11:31 auxilio hp
+12:04 auxilio cassiano
+12:21 almoço
+
+13:30 atraso
+13:36 merge 1062853
+13:40 levantamento de requisito 1064478
+15:10 auxilio angelica
+15:45 auxilio jonatas
+15:50 analise de os 1065533
+18:44 fim
+
+06/11
+08:00 atraso
+08:06 analise de os 1062357
+08:20 levantamento de requisito 1065749
+08:55 auxilio izabela
+09:08 auxilio clauinei
+09:11 analise de os 1062714
+09:15 auxilio ederson
+09:26 levantamento de requisito 1062714
+10:45 levantamento de requisito 1066246
+12:00 auxilio lucas delgado
+12:22 almoço
+
+13:30 retrospectiva qualidade
+13:52 projeto qualidade
+14:27 analise de os 1065916
+14:40 analise de os 1066327
+15:05 auxilio filipe 
+15:50 analise de os 1065916
+16:33 auxilio kajihara
+16:40 auxilio lucas ramos
+17:07 sizing contabil
+17:22 analise de os 1065916
+18:23 organizando trello deep
+18:40 merge 1066327
+18:45 levantamento de requisito 1066411
+19:10 levantamento de requisito 1066465
+19:40 fim
+
+07/11
+08:57 analise de os 1062450
+09:32 auxilio filipe
+10:30 levantamento de requisito 1062450
+11:09 analise de os 1066326
+11:50 levantamento de requisito 1065749
+12:08 levantamento de requisito 1065812
+12:32 fim
+
+09/11
+08:00 sp1 contabil
+08:15 sp1 deep
+10:04 ordenar os deep 
+10:26 banheiro
+10:32 release notes contabil
+10:55 geração de atas
+11:00 retrospectiva analise
+11:40 analise de os 1065546
+12:06 almoço
+
+13:30 atraso
+13:35 organizando trello contabil
+14:00 reuniao fiscal
+14:23 analise de os 1065546
+14:45 release notes deep
+15:00 auxilio kajihara
+16:03 café
+16:15 release notes deep
+18:30 fim
+
+10/11
+08:00 analise de os 1062832/1066221
+09:20 analise de os 1062762
+10:10 analise de os 943946 
+10:24 analise de os 979307
+10:52 auxilio filipe 
+11:11 analise de os 979307
+11:25 auxilio kajihara
+11:30 analise de os 979307
+12:00 almoço
+
+13:30 refazer site sgcontabil
+14:15 auxilio kajihara
+14:30 review 1020797
+15:47 auxilio lucas delgado
+16:14 review 1020797
+17:00 auxilio jonatas
+18:11 fim
+
+11/11
+08:00 refazendo sgcontabil site
+08:30 levantamento de requisito molina (sem os)
+08:46 auxilio gabriel
+08:55 refazendo sgcontabil site
+09:02 auxilio claudinei
+10:45 retrospectiva deep
+11:04 analise os lider
+12:19 almoço
+
+13:30 atraso
+13:53 levantamento de requisito 1067143
+14:15 analise de os 1062711
+14:30 levantamento de requisito 1062711
+15:12 levantamento de requisito 1062762
+16:20 analise de os 1066770
+17:26 levantamento de requisito 1066326
+17:45 levantamento de requisito 946397
+18:00 analise de os 1026932
+18:16 fim
+
+12/11
+08:00 atraso
+08:05 analise de os 1060444
+09:00 analise de os 1067146
+09:30 banheiro
+09:40 merge 1062832
+09:45 analise de os 1026932
+10:50 analise de os 1060444
+11:03 auxilio rodrigo
+11:30 levantamento de requisito 1060444
+12:10 almoço
+
+13:30 analise de os 1062562
+14:50 analise de os 1067398
+15:00 analise de os 1039313
+15:40 analise de os 1062768
+15:50 analise de os 1062709
+16:10 analise de os 1065749
+17:30 merge 1065812
+17:35 organizando trello deep
+18:00 merge 1054679
+18:10 fim
+
+13/11
+08:00 atraso
+08:05 refazendo site sgcontábil
+10:30 merge 1064478
+10:40 levantamento de requisito 1067819
+11:08 merge 1059526
+11:19 auxilio alencar
+11:35 levantamento de requisito 1067398
+11:40 analise de os 1054679
+12:07 almoço
+
+13:30 retrospectiva
+13:50 analise de os 1054679
+14:20 analise de os 1062701
+14:40 levantamento de requisito 1062701
+15:10 auxilio jonatas/ederson
+15:25 sizing contabil
+15:45 auxilio kajihara/gabriel
+16:09 analise de os 1067855
+16:50 merge 1030151
+16:55 auxilio ederson
+17:24 merge 1050436
+17:29 analise de os 1067855
+17:40 levantamento de requisito 1067855
+18:20 fim
+
+16/11
+08:00 sp1 contabil
+08:12 sp1 deep
+09:27 organizando os deep
+09:35 merge 1057357
+09:40 organziando os fila
+10:10 geração de atas
+10:20 analise de os 1065901
+11:00 retrospectiva analise
+11:25 levantamento de requisito 1065901
+11:50 auxilio jonatas
+12:07 almoço
+
+13:30 atraso
+13:32 analise de os 1066128
+14:00 reuniao fiscal
+14:40 banheiro
+14:48 auxilio filipe
+14:53 analise de os 1066128
+15:50 cafe
+16:05 levantamento de requisito 1068396
+17:05 levantamento de requisito 1068374
+17:30 auxilio vitor web
+18:00 merge 1062194
+18:12 fim
+
+17/11
+08:00 organizando trello deep
+08:27 levantamento de requisito 1068374
+08:40 auxilio henriques 1065011
+08:50 auxilio ederson
+09:00 retrospectiva deep
+09:22 auxilio henriques/ederson
+09:37 reuniao alinhamento
+10:22 auxilio lucas delgado/ederson
+11:10 organizando trello deep
+11:20 auxilio lucas delgado
+11:35 auxilio kajihara
+11:40 auxilio lucas delgado/henriques (cupom entrega a domicilio)
+12:22 almoço
+
+13:30 atraso
+13:37 auxilio filipe
+13:45 auxilio henriques
+13:55 merge 1061131
+14:00 analise de os 1068515
+14:34 levantamento de requisitos 1068262
+15:47 auxilio suporte 
+17:30 analise de os 1068692
+17:40 levantamento de requisitos 1068262
+18:08 fim
+
+18/11
+08:00 atraso
+08:08 daily scrum
+08:28 organizando trello fiscal
+08:35 analise de os 1068330
+10:00 auxilio henriques 996743
+10:15 analise de os 1068899
+10:30 auxilio gabriel
+10:50 merge 1061428
+10:55 analise de os 1068330
+12:10 almoço
+
+13:30 levantamento de requsito 1068330
+14:15 auxilio kajihara 1066770
+14:30 auxilio jonatas
+14:35 auxilio lucas ramos
+14:52 auxilio filipe/kajihara
+15:22 organizando trello deep/sgcontabil
+15:35 analise de os 1068965
+15:53 auxilio jonatas
+16:15 auxilio edgar
+16:25 analise de os 1068965
+16:40 analise de os 1062357
+17:30 analise de os 1068501
+18:00 fim
+
+19/11
+08:00 analise de os 1069170
+09:00 analise de os 1068501
+10:12 levantamento de requisito 1067356
+11:00 levantamento de requisito 1068990
+12:13 almoço
+
+13:30 atraso
+13:43 analise de os 1069318
+15:20 levantamento de requisito 1069284
+17:00 levantamento de requisito 1069440
+17:32 levantamento de requisito 1069284
+18:00 levantamento de requisito 1068501
+18:56 fim
+
+20/11
+08:00 atraso
+08:10 daily scrum
+08:30 levantamento de requisito 1067356
+08:40 auxilio gabriel
+08:55 auxilio jonatas
+09:05 organizando trello sgcontabil e deep
+09:43 levantamento de requisito 1067356
+10:37 auxilio filipe
+10:50 auxilio edgar
+10:55 levantamento de requisito 1067356
+11:42 auxilio lucas delgado/alencar
+12:15 almoço
+
+13:30 retrospectiva
+14:17 auxilio lucas ramos
+15:37 auxilio jonatas
+16:07 analise de os 1069580
+17:27 analise de os 1068202
+19:00 fim
+
+23/11
+08:00 sp1 contabil
+08:16 sp1 deep
+10:00 organizando os deep
+10:12 auxilio claudinei
+10:28 geração de atas
+10:36 organizando os fila
+11:00 retrospectiva contabil
+11:25 auxilio jonatas / lucas delgado
+12:05 almoço
+
+13:30 auxilio ederson
+13:36 analise de os 1054679
+14:00 reuniao fiscal
+14:30 auxilio filipe / claudinei
+15:00 analise de os 1069855
+15:20 levantamento de requisito 1068895
+16:00 café
+16:10 levantamento de requisito 1068895
+16:28 analise de os 1056585 
+16:50 analise de os 1062546
+17:00 levantamento de requisito 1068973
+17:40 auxilio alisson
+17:56 auxilio gustavo
+18:00 auxilio alisson
+18:10 fim
+
+24/11
+08:00 analise de os 1070081
+08:40 levantamento de requisito 1070081
+09:05 retrospectiva deep
+09:20 auxilio claudinei
+10:05 levantamento de requisito 1070081
+10:16 auxilio filipe/gabriel
+10:35 auxilio lucas delgado
+10:50 auxilio filipe 
+11:10 levantamento de requisito 1070081
+12:15 almoço
+
+13:30 atraso
+13:45 auxilio glaucia
+13:59 auxilio filipe
+14:10 auxilio jonatas / lucas delgado
+14:44 treinamento gustavo p/ atualizar planilhas NCM
+15:40 salvando informações treinamento
+15:55 merge 1058282
+16:00 analise de os 1069627
+16:25 cafe
+16:32 analise de os 1069627
+17:27 merge 1058282/1060444
+17:30 analise de os 1062711
+18:00 merge 1067356
+18:04 levantamento de requisito 1067435
+18:13 fim
+
+25/11
+08:00 levantamento de requisito 1067435
+08:42 auxilio rogerio
+09:01 organizando trello deep
+09:25 auxilio filipe
+10:25 auxilio jonatas
+10:37 auxilio deep
+11:18 reuniao encerramento 
+11:30 auxilio deep 
+12:01 almoço
+
+13:30 atraso (buscar cartao na sg)
+14:12 analise de os 1070224
+14:20 auxilio jonatas
+14:30 organizando trello deep
+15:00 analise de os 1066823, 1045145 e 1059888
+15:56 auxilio kajihara / gabriel
+16:20 merge 1046544/1055118/1062768/1058537/1058173
+16:41 café
+16:55 analise de os 1012329
+17:45 levantamento de requisito 1070479
+18:00 analise de os 1012329
+18:10
+
+26/11
+08:00 atraso
+08:10 daily scrum
+08:27 organizando trello deep
+08:35 analise de os 1062762
+09:00 auxilio rafael / kajihara
+09:30 analise de os 1062762
+10:00 levantamento de requisito 1070457
+11:40 auxilio kajihara 1056585
+12:17 almoço
+
+13:30 levantamento de requisito 1070962
+13:48 auxilio hp
+14:35 levantamento de requisito 1070962
+15:00 analise de os 1071075
+16:00 auxilio jonatan, rot st analise 1070296
+17:00 auxilio filipe / kajihara / cassiano
+18:10 merge 1069170 / 1052017 / 1060366
+18:30 analise de os 1069782
+19:18 fim
+
+27/11
+08:00 atraso
+08:06 organizando trello
+08:29 analise de os 1070717
+08:40 auxilio lucas delgado
+08:50 analise de os 1070717
+09:10 analise de os 1071066
+09:20 organizando os nome 
+09:40 auxilio gustavo levorato
+10:18 auxilio jonatan, guilherme, gustavo 
+12:13 almoço
+
+13:30 atraso
+13:33 analise de os 1071029
+13:40 retrospectiva
+14:00 analise de os 1069580
+15:20 analise de os 1069440
+16:07 sizing
+16:55 analise de os 1071030
+17:00 analise de os 1069440
+18:00 levantamento de requisito 1070457
+18:50 analise de os 1033713
+19:02 fim
+
+30/11
+08:00 sp1 contabil
+08:23 sp1 deep
+10:21 organizando trello deep
+10:38 banheiro
+10:44 analise de os 1071030
+10:47 analise de os 1071542
+11:00 retrospectiva analise
+11:30 merge 1057467/1065749
+11:47 geração de atas
+11:54 organizando os pendentes
+12:05 almoço
+
+13:30 analise de os 1071648
+13:45 organizando trello
+14:00 reuniao fiscal
+14:35 auxilio lucas ramos
+14:46 auxilio kajihara
+14:55 analise de os 1071324
+15:00 analise de os 1068784
+16:20 analise de os 1069660
+17:30 auxilio jonas
+18:40 fim
+
+01/12
+08:00 atraso
+08:06 organizando os nome
+08:10 levantamento de requisito 1069660
+08:50 levantamento de requisito 1068784
+09:00 retrospectiva deep 
+09:35 auxilio jonas
+09:46 levantamento de requisito 1068784
+10:50 levantamento de requisito 1071648
+11:20 analise de os 1050848
+12:10 almoço
+
+13:30 atraso
+13:35 analise de os 1050848
+13:45 levantamento de requisito 1072059
+14:10 auxilio kajihara
+14:20 levantamento de requisito 1072059
+14:25 verificando os paradas aguardando e trello
+14:50 levantamento de requisito 1072092
+15:00 auxilio jonas/paula/kajihara/jonatas
+18:00 analise de os  1072092
+18:23 fim
+
+02/12
+08:00 analise de os 1068776
+08:25 analise de os 1071953
+08:40 levantamento de requisito 1071953
+10:40 levantamento de requisito 1072329
+10:48 auxilio kajihara
+10:52 auxilio lucas delgado
+11:15 merge 1071500/1069525
+11:25 organizando os trello deep
+12:07 almoço
+
+13:30 analise de os 1067407
+14:30 auxilio sonia/jonatas atendimento novo tempo
+15:20 analise de os 1072381/1072386/1072392/1072398/1072402
+15:50 levantamento de requisito 1072381
+16:05 analise de os 1072386
+16:50 analise de os 400
+17:15 analise de os 1072386
+17:30 levantamento de requisito 1072386
+18:45 fim
+
+03/12
+08:00 organizando trello sgcontabil
+08:10 review 1062701
+09:00 analise de os 1072381
+10:10 analise de os 1072392
+10:30 levantamento de requisito 1072392
+11:45 analise de os 1072398
+12:00 levantamento de requisito 1072686
+12:10 almoço
+
+13:30 atraso
+13:36 analise de os 1072398
+14:15 auxilio lucas ramos/jonatas/gabriel
+17:00 levantamento de requisito 1072398
+17:23 auxilio jonatan sgdfe am
+18:32 fim
+
+04/12
+08:00 atraso
+08:07 levantamento de requisito 1072850
+08:40 analise de os 1072588
+09:00 analise de os 1072850
+09:20 levantamento de requisito 1072590
+10:05 auxilio hp
+10:25 auxilio jonatas
+10:40 auxilio kajihara
+10:43 levantamento de requisito 1072722
+11:20 auxilio kajihara
+11:47 analise de os 
+12:00 almoço
+
+13:30 retrospectiva 
+13:57 analise de os 1072704
+14:40 auxilio filipe
+14:45 planejamento horas
+15:05 levantamento de requisito 1072398
+15:20 merge 1072588
+15:40 analise de os 1073125
+17:26 analise de os 1072071
+17:45 analise de os 1071130
+18:30 fim
+
+07/12
+08:00 sp1 contabil
+08:05 sp1 deep
+10:44 organizando trello deep
+11:00 retrospectiva contabil
+11:15 release notes contabil
+11:40 geracao de atas
+11:50 analise de os 1072704
+12:01 almoço
+
+13:30 atraso
+13:35 release notes deep
+14:00 reuniao fiscal
+14:36 auxilio jonatas
+14:50 auxilio henriques/edgar
+15:20 release notes deep
+18:30 fim
+
+08/12
+08:00 analise de os 1072402
+08:40 review 1072381/1072392
+09:00 retrospectiva deep
+09:25 review 1072392
+09:59 analise de os 1063346
+10:15 merge 1071130
+10:24 auxilio renan 
+10:28 analise de os 1073609
+11:44 review 1072392
+12:16 almoço
+
+13:30 analise de os 1071499
+14:00 analise de os 1073253
+15:40 auxilio filipe
+16:00 analise de os 1073253
+17:00 analise de os 1073634
+17:33 auxilio lucas ramos
+17:58 analise de os 1073634
+18:20 fim
+
+09/12
+08:00 atraso
+08:07 review 1054426
+08:40 analise de os 1073671
+09:05 review 1054426
+09:37 auxilio ana financeiro
+10:05 review 1054426
+10:30 levantamento de requisito 1073253
+11:07 reuniao encerramento projeto
+11:28 auxilio gisely/eduardo hp
+12:05 almoço
+
+13:30 auxilio hp
+14:30 auxilio kajihara
+14:50 analise de os 1072638
+16:20 levantamento de requisito 1074233
+17:40 merge 1068784
+17:44 auxilio kajihara
+17:48 levantamento de requisito 1073855
+18:16 fim
+
+10/12 
+08:00 levantamento de requisito 1072638
+09:00 analise de os 1072768
+09:50 auxilio gisely
+10:00 analise de os 1072768
+11:00 auxilio gisely 
+11:05 analise de os 1067417
+12:15 almoço
+
+13:30 auxilio kajihara
+13:50 analise de os 1067417
+14:30 analise de os 1072638
+15:21 merge 1074342/1072071
+15:25 auxilio lucas delgado
+15:35 analise de os 1065904
+16:14 cafe
+16:25 analise de os 1065904
+16:54 auxilio marcelo rjk
+17:57 fim
+
+11/12
+08:00 levantamento de requisito 1074038
+08:48 levantamento de requisito 1074630 
+09:10 organizando trello deep
+09:40 levantamento de requisito 1063455
+10:18 analise de os 1065904
+10:35 levantamento de requisito 1063455
+11:00 levantamento de requisito 1074841
+11:10 auxilio jonatas os sao luiz
+12:11 almoço
+
+13:30 atraso
+13:35 retrospectiva
+13:45 auxilio jonatas sao luiz /teste
+14:25 analise de os 1065904
+15:30 levantamento de requisito 1074841
+16:00 review 1072398
+16:15 auxilio kajihara
+16:25 auxilio jonatas
+17:45 auxilio lucas ramos
+18:00 organizando trello deep 
+18:30 fim
+
+14/12
+08:00 organizando trello
+08:10 sp1 deep
+09:50 ordenando os deep
+10:05 banheiro
+10:10 analise de os 1074399
+11:00 retrospectiva analise
+11:25 analise de os 1074186
+12:11 almoço
+
+13:30 atraso
+13:37 auxilio kajihara
+14:00 reuniao fiscal
+14:50 banheiro
+15:00 auxilio Jadeir 
+15:13 auxilio Gabriel
+15:24 auxilio Joao Carlos
+15:30 analise de os 1075012
+16:06 auxilio maikon / guilhermen
+16:58 auxilio gisely 1074503
+17:09 analise de os 1074785
+17:20 auxilio gisely 1074503
+18:00 geração de atas
+18:17 fim
+
+15/12
+08:00 analise de os 1075012
+09:20 reuniao alinhamento
+10:02 analise de os 1073280 
+10:07 analise de os 1073995
+10:23 auxilio hp
+10:45 analise de os 1075086
+11:10 merge 1073766
+11:15 levantamento de requisito 1075086
+12:16 almoço
+
+13:30 analise de os 1075647
+13:55 retrospectiva deep
+14:20 analise de os 1075647
+14:35 auxilio jonatas
+14:50 auxilio filipe
+15:17 analise de os 1075053
+15:30 levantamento de requisito 1075647
+16:26 analise de os 1073995
+16:47 auxilio hp sao luiz servidor novo
+17:50 auxilio edgar
+18:30 auxilio hp sao luiz servidor novo
+19:00 fim
+
+16/12
+08:00 atraso (amora veterinario)
+08:40 auxilio hp/cassiano servidor sao luiz
+08:55 auxilio gisele
+09:00 auxilio filipe 
+09:30 merge 1074871
+09:40 auxilio guilherme - os sguario
+11:15 analise de os 1075053
+11:20 analise de os 1030153
+11:40 analise de os 1075703
+12:15 almoço
+
+13:30 atraso (amora veterinario)
+14:07 auxilio guilherme /patricia
+17:00 auxilio hp servidor sao luiz
+19:00 fim
+
+17/12
+08:00 analise de os 1074179
+10:40 merge 1075086
+10:45 analise de os 1073995
+11:30 levantamento de requisito 1076297
+11:56 analise de os 1070457
+12:06 almoço
+
+13:30 analise de os 1075962
+14:30 analise de os 1073995
+16:30 merge 1063455
+16:37 analise de os 1073995
+18:04 fim
+
+18/12
+08:00 analise de os 1062479
+08:30 analise de os 1076239
+08:40 analise email andre
+09:30 auxilio kajihara
+
+13:30 retrospectiva
+14:05 auxilio kajihara
+14:20 levantamento de requisito 1076862
+16:00 auxilio filipe/kajihara
+17:20 auxilio eriberto
+17:36 auxilio carlos/jonatas
+18:26 levantamento de requisito 1076862
+18:50 levantamento de requisito 1062479
+19:10 fim
+
+21/12
+08:00 organizando trello deep
+08:05 sp1 deep
+09:35 organizando trello deep
+09:40 analise de os 1074503
+10:52 analise de os 1076633
+11:02 retrospectiva sgcontabil
+11:29 analise os 1076981 pe_dfe.l
+12:10 almoço
+
+13:30 analise os 1076981 pe_dfe.l
+14:05 reuniao fiscal
+14:40 auxilio jonatas
+15:00 auxilio hp 1076982
+16:30 cafe 
+16:40 auxilio jonatas
+17:00 levantamento de requisito 1074503
+18:00 analise de os 1076982
+18:35 fim
+
+22/12
+08:00 levantamento de requisito 1075378
+08:35 analise de os 1077045
+08:45 teste os carta de correcao
+09:00 retrospectiva deep
+09:35 teste os carta de correcao
+10:00 banheiro
+10:10 analise de os 1077045
+11:30 auxilio carlos 
+11:50 levantamento de requisito 1072768
+12:10 almoço
+
+13:30 auxilio carlos rejeicao nfce Amazonas
+13:43 auxilio filipe
+14:00 analise de os 1077302
+17:18 levantamento de requsito 1077302
+17:50 auxilio kajihara
+18:07 fim
+
+28/12
+08:00 sp1 analise 
+08:12 sp1 deep 
+09:15 organizando os deep
+09:30 banheiro
+09:40 merge 1076862/1075337
+10:00 analise de os 1072578
+10:42 auxilio alencar / lucas ramos
+11:00 retrospectiva analise
+11:28 geração de atas
+11:40 analise de os 1077353 (auxilio lucas ramos)
+12:05 almoço
+
+13:30 organizando trello
+13:40 retrospectiva deep
+14:05 reuniao fiscal
+15:00 auxilio filipe
+15:30 banheiro
+15:40 levantamento de requisito 1077567
+16:00 analise de os 1077590  (rogerio)
+16:15 auxilio filipe
+16:25 alterar ata 
+16:40 analise de os 1074228
+17:15 fim (levar amora veterinario)
+
+29/12
+08:00 analise de os 1074228
+09:00 levantamento de requisito 1074228
+10:00 analise de os 1050432
+10:20 analise de os 1071744
+10:35 auxilio jonatas
+11:00 analise de os 1050432
+11:30 analise de os 1071744
+12:10 auxilio rogerio rejeicao giga
+12:33 almoço
+
+13:30 atraso
+13:35 auxilio rogerio rejeicao giga
+15:15 merge 1062479
+15:20 analise de os 1078086
+15:40 levantamento de requisito 1078086
+16:00 auxilio rogerio rejeicao giga
+18:00 review 1074228
+18:10 auxilio carlos
+18:20 fim
+
+30/12
+08:00 review carta de correcao 1075518
+08:30 review 1074228
+09:35 merge 1074228
+09:40 review carta de correcao 1075518
+09:46 auxilio kajihara
+10:30 levantamento de requisito 1078399
+11:00 auxilio claudinei
+12:14 almoço
+
+13:30 atraso
+13:35 levantamento de requisito 1078399
+13:45 levantamento de requisito 1058934
+14:35 merge 1072059
+14:40 verificando os backlog aguardando
+15:20 levantamento de requisito 1058934
+18:45 fim
+
+31/12
+08:00 analise de os 1076982
+10:16 auxilio kajihara
+10:40 levantamento de requisito 1072578
+11:00 auxilio filipe 
+12:10 almoço
+
+13:33 levantamento de requisito 1074825
+14:11 levantamento de requisito 941106
+14:20 auxilio filipe
+16:15 cafe
+16:30 levantamento de requisito 941106 
+16:47 levantamento de requisito 1073482
+18:28 fim
+
+04/01
+08:00 sp1 analise 
+08:13 sp1 deep
+10:00 analise de os 1078409
+10:07 analise de os 1078522
+10:18 levantamento de requisito 1074096
+11:00 retrospectiva analise
+11:24 analise de os 1071468
+11:45 merge 1071468/1073280/1076661
+12:00 almoço
+
+13:30 atraso
+13:33 levantamento de requisito 1078522
+14:00 reuniao fiscal
+14:20 auxilio kajihara
+14:33 merge 1071648
+14:37 levantamento de requisito 1078522
+14:45 auxilio carlos 
+15:05 levantamento de requisito 1078522
+15:20 auxilio jonatas
+15:45 auxilio filipe
+16:00 cafe
+16:15 auxilio claudinei/kajihara
+17:15 merge 1078399/1068670
+17:25 levantamento de requisito 1078522
+18:05 analise de os 1078489
+18:10 fim
+
+05/01
+08:00 release notes
+09:00 auxilio lucas delgado
+09:13 levantamento de requisito 1078828
+09:20 auxilio lucas delgado
+10:00 release notes
+11:00 banheiro
+11:10 release notes
+11:30 analise de os 1079148
+12:04 almoço
+
+13:32 levantamento de requisito 1077572
+13:50 retrospectiva deep
+14:06 auxilio jonatas
+14:30 levantamento de requisito 1077572
+15:00 auxilio kajihara
+15:10 merge 1078828
+15:17 auxilio filipe 
+16:10 auxilio jonatas 
+16:40 cafe
+16:55 auxilio jhony
+17:04 merge 1073855
+17:10 analise de os 1076160
+18:10 fim
+
+06/01
+08:00 analise de os 1078489
+09:17 banheiro
+09:25 auxilio jonatas / ederson /henriques 
+10:00 auxilio kajihara/ filipe
+11:32 analise de os 1079540
+12:10 almoço
+
+13:30 analise de os 1079540
+14:40 assinando as atas
+15:00 auxilio carlos
+15:48 auxilio patricia
+16:00 auxilio carlos
+16:39 auxilio maikon os 1079680
+17:00 café
+17:15 auxilio jonatas 
+17:30 auxilio filipe/kajihara
+18:36 fim
+
+07/01
+08:00 release notes
+09:30 auxilio jonatas
+10:00 reuniao robson alteracoes mix fiscal
+10:52 levantamento de requisito 1080041
+12:10 almoço
+
+13:30 merge 1072590
+13:35 levantamento de requisito 1072768
+16:38 auxilio kajihara
+16:53 organizando trello
+17:20 merge 1073482/1075378
+17:25 auxilio filipe
+18:10 fim
+
+08/01
+08:00 analise de os 1071990
+09:39 auxilio filipe
+10:03 analise de os 1080041
+10:18 analise de os 1079907
+10:58 analise de os 1076220
+11:10 levantamento de requisito 1079907
+11:19 merge 1080115 /1068501
+11:23 levantamento de requisito 1079907
+12:08 almoço
+
+13:30 retrospectiva
+13:50 auxilio gisely
+14:00 levantamento de requisito 1055926
+16:30 levantamento de requisito 1077572
+16:50 auxilio reinaldo cabrijana mdfe
+18:40 fim
+
+11/01
+08:00 sp1 analise
+08:05 organizando trello
+08:10 sp1 deep
+09:40 ordenando os deep
+10:00 banheiro
+10:05 levantamento de requisito 1080753
+10:15 levantamento de requisito 1080761
+10:40 auxilio jonatas
+10:50 analise de os 1076220
+11:05 retrospectiva analise
+11:12 analise de os 1080536
+12:11 almoço
+
+13:30 analise de os 1080536
+14:30 levantamento de requisito 1080356
+15:00 auxilio filipe / barruga
+16:09 auxilio lucas ramos 1080829
+16:18 levantamento de requisito 1072768
+16:30 geração de atas
+16:52 auxilio claudinei
+16:58 auxilio hp
+17:05 analise de os 1071990
+17:19 auxilio filipe 
+17:36 analise de os 1071990
+17:50 verificando apontamento
+
+12/01
+08:00 analise de os 1076793
+09:30 reuniao gustavo
+09:58 banheiro
+10:05 analise de os 1076793
+10:30 auxilio sonia rejeicao nfse 
+11:26 analise de os 1076793
+12:02 almoço
+
+13:30 analise de os 1076793
+13:55 analise de os 1076160
+14:14 auxilio filipe 
+14:48 analise de os 1081180
+15:00 auxilio eduardo suporte
+16:30 auxilio claudinei os planalto / filipe
+17:40 analise de os 1081122, 1002057, 1081249 e 1076160
+18:03 fim
+
+13/01
+08:00 atraso
+08:07 organizacao trello deep
+08:20 auxilio ederson
+08:40 analise de os 1002057
+09:43 auxilio alisson
+09:52 auxilio filipe 
+10:04 merge 1073290/1075141
+10:15 auxilio eduardo suporte 
+10:25 auxilio ederson
+10:34 merge 1080536
+10:40 auxilio kajihara /filipe
+11:40 organizando trello
+11:45 analise de os 1080829
+12:00 almoço
+
+13:30 atraso
+13:34 levantamento de requisito 1002057
+13:50 analise de os 1003772
+14:05 auxilio kajihara
+15:04 analise de os 1003772
+15:21 auxilio lucas ramos 1081285
+15:40 levantamento de requisito 1081641
+16:35 retrospectiva deep
+16:58 cafe
+17:08 levantamento de requisito 1080829
+18:05 auxilio rodrigo/akio cte
+18:27 fim
+
+14/01
+08:00 atraso
+08:05 analise de os 1079372
+09:45 levantamento de requisito 1079372
+10:40 analise de os 1081376
+12:06 almoço
+
+13:30 analise de os 1079372
+13:50 levantamento de requisito 1080829
+15:00 auxilio kajihara
+15:28 analise de os 1081122
+15:40 analise de os 1036148/1067631
+16:10 analise de os 1081376
+17:00 auxilio gisely
+17:18 levantamento de requisito 1082091
+17:30 auxilio lucas ramos bom lugar 1081034
+18:57 fim
+
+15/01
+08:00 atraso
+08:04 analise de os 1077688
+08:50 analise de os 1082138
+09:20 levantamento de requisito 1082138
+10:45 analise de os 1067113
+11:00 organizando trello deep
+11:25 analise de os 1077688
+12:05 almoço
+
+13:30 levantamento de requisito 1077688
+15:30 banheiro 
+15:35 auxilio maikon
+15:50 organizando trello contabil
+16:10 sizing contabil
+16:25 organizando trello contabil
+16:35 analise de os 1081249/1076160
+17:05 merge 1081122
+17:10 auxilio lucas ramos
+17:25 auxilio jonatas
+17:33 analise de os 1081249/1076160
+18:10 fim
+
+18/01
+08:00 sp1 contabil
+08:17 sp1 deep
+08:56 organizando trello deep
+09:10 banheiro
+09:20 verificando apontamento
+09:40 analise de os 1061623
+09:45 auxilio jonatas
+09:58 analise de os 1081723
+10:30 auxilio edgar
+10:50 levantamento de requsito 1081723
+11:05 retrospectiva contabil
+11:17 analise de os 1081966
+11:30 levantamento de requisito 1082565
+11:45 analise de os 1081966
+12:10 almoço
+
+13:30 analise de os 1081966
+14:00 reuniao vr
+14:19 analise de os 1081966
+15:30 levantamento de requisito 1081966
+16:50 merge 1082138
+17:00 analise de os 1036148
+17:11 auxilio lucas ramos
+17:30 levantamento de requisito 1081966
+18:14 fim
+
+19/01
+08:00 atraso
+08:09 geração de atas
+08:15 organizando trello deep
+08:40 analise de os 1082218
+09:20 levantamento de requisito 1082218
+09:40 analise de os 1082184
+10:20 reuniao alinhamento
+10:58 auxilio claudinei / kajihara
+11:45 auxilio jhony
+11:50 levantamento de requisito 1083119
+12:15 almoço
+
+13:30 analise de os 1072768
+13:47 auxilio kajihara
+14:05 merge 1072768 dime sc
+14:10 levantamento de requisito 1081966
+14:30 auxilio edgar 1082679
+15:10 levantamento de requisito 1076160
+15:43 auxilio sonia
+16:03 auxilio edgar
+16:50 auxilio jonatas
+17:40 retrospectiva deep
+18:13 fim
+
+20/01
+08:00 atraso
+08:06 analise de os 1082679
+08:50 levantamento de requisito 1082679
+09:25 auxilio filipe
+09:45 auxilio jonatas erro gbs
+10:10 banheiro
+10:20 analise de os 1022768, 1067631, 1042461 e 1083328
+10:55 auxilio lucas delgado
+11:03 analise de os 1022768, 1067631, 1042461 e 1083328
+11:20 merge 1081641
+11:25 analise de os 1022768, 1067631, 1042461 e 1083328
+12:03 analise de os 1082426
+12:15 almoço
+
+13:30 analise de os 1082679
+13:40 verificando alteracoes ecd/ecf
+14:10 analise de os 1082426
+14:45 levantamento de requisito 1083506
+15:49 levantamento de requisito 1082184
+15:58 atendimento erro gbs
+17:00 auxilio filipe
+17:08 levantamento de requisito 1083512
+18:00 analise de os 1083273
+18:10 auxilio gisely
+18:21 fim
+
+21/01
+08:00 levantamento de requisito 1083273
+09:20 auxilio gisely
+09:40 analise de os 1083124
+11:00 analise de os 1082426
+11:14 auxilio kajihara
+11;30 analise de os 1082218
+12:00 auxilio claudinei
+12:15 almoço 
+
+13:30 atraso
+13:38 auxilio claudinei
+15:00 auxilio kajihara
+15:30 analise de os 1082426
+18:16 fim
+
+22/01
+08:00 atraso
+08:03 analise de os 1083286
+09:04 merge 1083506
+09:10 analise de os 1083286
+11:00 levantamento de requisito 1083286
+11:30 organizando trello deep
+11:50 analise de os 1077688
+12:10 almoço
+
+13:30 atraso
+13:38 review 1077688
+14:40 auxilio sonia
+15:40 levantamento de requisito 1081966
+16:40 levantamento de requisito 1076160
+17:25 merge 1072638
+17:30 organizando trello
+17:45 merge 1074644
+18:10 fim
+
+25/01
+08:00 sp1 sgcontabil
+08:18 sp1 deep
+09:20 organizando trello deep
+09:28 banheiro
+09:31 auxilio nayara / rogerio
+10:00 auxilio jonatas
+10:55 geracao de atas
+11:00 retrospectiva analise
+11:17 auxilio ederson
+11:30 organizando trello fiscal
+12:07 almoço
+
+13:30 atraso
+13:37 levantamento de requisito 1071953
+13:50 analise de os 1084526
+14:50 reuniao fiscal
+15:43 analise de os 1084488
+16:10 auxilio edgar
+17:00 auxilio jonatas 
+18:25 fim
+
+26/01
+
+08:30 analise de os 1067857
+09:00 banheiro
+09:10 analise de os 1081288
+11:31 retrospectiva deep
+11:51 auxilio jonatas
+11:55 auxilio filipe
+12:00 almoço
+
+13:30 analise de os 1084488
+14:00 auxilio jonatas
+14:30 auxilio filipe
+15:00 analise de os 1083570
+16:24 analise de os 1084837
+17:53 analise de os 1025502
+18:20 levantamento de requisito 1084837
+18:35 fim
+
+27/01
+08:00 atraso
+08:10 auxilio rafael
+09:00 analise de os 1084779
+09:05 auxilio claudinei
+09:20 banheiro
+09:30 analise de os 1084779
+10:00 merge 1067857
+10:05 auxilio kajihara /filipe / jonatas
+10:40 analise de os 1085115
+10:56 auxilio cassiano / kajihara
+11:25 auxilio gisele
+11:30 analise de os 1084779
+12:17 almoço
+
+13:30 organizando trello
+13:50 analise de os 1085085
+14:45 levantamento de requisito 1085085
+15:35 levantamento de requisito 1080402
+16:00 auxilio gisele
+16:20 levantamento de requisito 1080402
+16:30 analise de os 1081288
+18:20 fim
+
+28/01
+08:00 analise de os 1081288
+09:00 levantamento de requisito 1081288
+09:45 merge 1082184
+09:50 levantamento de requisito 1081288
+10:18 analise de os 1085440/1085218
+10:45 levantamento de requisito 1081288
+11:30 auxilio kajihara
+11:45 merge 1085440/1042461
+11:50 organizando trello
+12:05 almoço
+
+13:30 atraso
+13:33 auxilio claudinei
+13:37 auxilio naiara
+13:47 auxilio claudinei
+14:00 analise de os 1080453/1082933
+14:15 auxilio kajihara
+15:00 organizando trello
+15:17 analise de os 1085497 
+15:40 levantamento de requisito 1085497
+16:33 levantamento de requisito 1085575
+17:05 merge 1083286
+17:10 analise de os 1074543
+17:52 merge 1081966
+18:15 auxilio claudinei
+18:45 fim
+
+29/01
+08:00 atraso
+08:04 levantamento de requisito 1084837
+08:40 auxilio lucas delgado
+08:45 levantamento de requisito 1084837
+10:40 auxilio filipe
+11:00 levantamento de requisito 1084837
+11:30 organizando trello
+12:04 almoço
+
+13:30 retrospectiva qualidade
+14:00 levantamento de requisito 1084837
+15:00 levantamento de requisito 1085575
+15:35 merge 1076160
+15:40 levantamento de requisito 1085575
+16:10 levantamento de requisito 1085544/1086031/1086044
+18:12 auxilio edgar
+18:40 levantamento de requisito 1085544/1086031/1086044
+19:00 fim
