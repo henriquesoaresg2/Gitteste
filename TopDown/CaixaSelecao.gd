@@ -14,6 +14,7 @@ func _ready():
 
 func _input(event):
 	CriaCaixa()
+	DeleteObj()
 
 func CriaCaixa():
 	if Input.is_action_just_pressed("mouse_left"):
@@ -35,6 +36,10 @@ func SelecionaObjs():
 			objeto.emit_signal("acendeLuz", selfRect.has_point(camera.unproject_position(objeto.transform().origin)))
 		elif objeto is CanvasItem:
 			objeto.emit_signal("acendeLuz", selfRect.has_point(objeto.get_position()))
-			print("O que há \n", selfRect.has_point(objeto.get_position()))
 		else:
 			print("Nadaaaaa")
+
+func DeleteObj():
+	if Input.is_action_just_pressed("ui_up"):
+		for objeto in objSelecionaveis:
+			objeto.emit_signal("deletaObjeto")

@@ -6,31 +6,31 @@
 [node name="Mundo" type="Node2D"]
 
 [node name="Selecionavel" parent="." instance=ExtResource( 1 )]
-position = Vector2( 141.566, 162.801 )
+position = Vector2( 40, 40 )
 
 [node name="Selecionavel2" parent="." instance=ExtResource( 1 )]
-position = Vector2( 140.566, 274.801 )
+position = Vector2( 40, 112 )
 
 [node name="Selecionavel3" parent="." instance=ExtResource( 1 )]
-position = Vector2( 139.566, 360.801 )
+position = Vector2( 40, 184 )
 
 [node name="Selecionavel4" parent="." instance=ExtResource( 1 )]
-position = Vector2( 216.566, 360.801 )
+position = Vector2( 112, 184 )
 
 [node name="Selecionavel5" parent="." instance=ExtResource( 1 )]
-position = Vector2( 218.566, 274.801 )
+position = Vector2( 112, 112 )
 
 [node name="Selecionavel6" parent="." instance=ExtResource( 1 )]
-position = Vector2( 214.566, 156.801 )
+position = Vector2( 112, 40 )
 
 [node name="Selecionavel7" parent="." instance=ExtResource( 1 )]
-position = Vector2( 296.566, 152.801 )
+position = Vector2( 184, 40 )
 
 [node name="Selecionavel8" parent="." instance=ExtResource( 1 )]
-position = Vector2( 296.566, 270.801 )
+position = Vector2( 184, 112 )
 
 [node name="Selecionavel9" parent="." instance=ExtResource( 1 )]
-position = Vector2( 294.566, 356.801 )
+position = Vector2( 184, 184 )
 
 [node name="CaixaSelecao" parent="." instance=ExtResource( 2 )]
 margin_left = -158.586
