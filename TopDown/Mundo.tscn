@@ -8,6 +8,30 @@
 [node name="Selecionavel" parent="." instance=ExtResource( 1 )]
 position = Vector2( 141.566, 162.801 )
 
+[node name="Selecionavel2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 140.566, 274.801 )
+
+[node name="Selecionavel3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 139.566, 360.801 )
+
+[node name="Selecionavel4" parent="." instance=ExtResource( 1 )]
+position = Vector2( 216.566, 360.801 )
+
+[node name="Selecionavel5" parent="." instance=ExtResource( 1 )]
+position = Vector2( 218.566, 274.801 )
+
+[node name="Selecionavel6" parent="." instance=ExtResource( 1 )]
+position = Vector2( 214.566, 156.801 )
+
+[node name="Selecionavel7" parent="." instance=ExtResource( 1 )]
+position = Vector2( 296.566, 152.801 )
+
+[node name="Selecionavel8" parent="." instance=ExtResource( 1 )]
+position = Vector2( 296.566, 270.801 )
+
+[node name="Selecionavel9" parent="." instance=ExtResource( 1 )]
+position = Vector2( 294.566, 356.801 )
+
 [node name="CaixaSelecao" parent="." instance=ExtResource( 2 )]
 margin_left = -158.586
 margin_top = 38.2093

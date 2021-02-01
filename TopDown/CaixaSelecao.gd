@@ -24,19 +24,17 @@ func CriaCaixa():
 		set_begin(Vector2(min(posInicial.x, posAtual.x), min(posInicial.y, posAtual.y)))
 		set_end(Vector2(max(posInicial.x, posAtual.x), max(posInicial.y, posAtual.y)))
 	elif Input.is_action_just_released("mouse_left"):
+		SelecionaObjs()
 		set_begin(Vector2(0,0))
 		set_end(Vector2(0,0))
 
 func SelecionaObjs():
-	print("Entrou na funcao")
 	var selfRect = get_rect()
 	for objeto in objSelecionaveis:
 		if objeto is Spatial:
-			print("is Spatial")
 			objeto.emit_signal("acendeLuz", selfRect.has_point(camera.unproject_position(objeto.transform().origin)))
 		elif objeto is CanvasItem:
-			print("is CanvasItem")
-			objeto.get_
-			#objeto.emit_signal("acendeLuz", selfRect.has_point()
+			objeto.emit_signal("acendeLuz", selfRect.has_point(objeto.get_position()))
+			print("O que há \n", selfRect.has_point(objeto.get_position()))
 		else:
 			print("Nadaaaaa")

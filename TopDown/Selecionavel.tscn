@@ -16,5 +16,4 @@ texture = ExtResource( 1 )
 
 [node name="ObjSelecionavel" parent="." instance=ExtResource( 3 )]
 objetoPath = NodePath("..")
-
 [connection signal="acendeLuz" from="." to="." method="_on_Selecionavel_acendeLuz"]
