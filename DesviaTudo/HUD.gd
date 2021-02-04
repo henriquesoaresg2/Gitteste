@@ -15,6 +15,7 @@ func show_game_over():
 	yield($MessageTimer, "timeout") # Espera ate terminar o contador do MessageTimer.
 	$Message.text = "Desvia ou\nmorre!"
 	$Message.show()
+	$Credits.show()
 	yield(get_tree().create_timer(1), "timeout") #Realiza mesmo efeito de one-shot no timer e espera terminar
 	$StartButton.show()
 
@@ -27,3 +28,4 @@ func _on_StartButton_pressed():
 
 func _on_MessageTimer_timeout():
 	$Message.hide()
+	$Credits.hide()

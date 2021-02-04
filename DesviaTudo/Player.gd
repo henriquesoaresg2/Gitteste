@@ -4,7 +4,7 @@ signal hit
 
 export var speed = 400 #(pixels/sec)
 var character = ["man", "salsicha"]#:String setget definePersonagem, pegaPersonagem # Para futuras implementacoes de alteracao de personagens...
-var characterSelected = "man"
+var characterSelected = "salsicha"
 var screen_size
 var character_shape 
 var n= 0
