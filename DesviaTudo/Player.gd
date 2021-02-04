@@ -17,13 +17,11 @@ func _ready():
 func _process(delta):
 	
 
-	if Input.is_action_just_pressed("ui_page_down"):# and character_shape.disabled == false: # Troca personagens
+	if Input.is_action_just_pressed("ui_personagem"):# and character_shape.disabled == false: # Troca personagens
 		if n < (character.size()-1):
-			print(n, " < ", (character.size()-1))
 			characterSelected = character[n]
 			n += 1
 		elif n == (character.size()-1):
-			print(n, " < ", (character.size()-1))
 			characterSelected = character[n]
 			n=0			
 		character_shape.set_deferred("disabled", true)
