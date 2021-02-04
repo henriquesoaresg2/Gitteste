@@ -5,16 +5,19 @@
 
 [sub_resource type="DynamicFont" id=1]
 size = 64
+outline_size = 2
+outline_color = Color( 0, 0, 0, 1 )
 font_data = ExtResource( 1 )
 
-[sub_resource type="DynamicFont" id=4]
+[sub_resource type="DynamicFont" id=5]
+outline_color = Color( 0, 0, 0, 1 )
 font_data = ExtResource( 1 )
 
-[sub_resource type="InputEventAction" id=2]
+[sub_resource type="InputEventAction" id=3]
 action = "ui_select"
 
-[sub_resource type="ShortCut" id=3]
-shortcut = SubResource( 2 )
+[sub_resource type="ShortCut" id=4]
+shortcut = SubResource( 3 )
 
 [node name="HUD" type="CanvasLayer"]
 script = ExtResource( 2 )
@@ -36,6 +39,7 @@ anchor_bottom = 0.5
 margin_top = -79.5
 margin_bottom = 79.5
 custom_fonts/font = SubResource( 1 )
+custom_colors/font_outline_modulate = Color( 0, 0, 0, 1 )
 text = "Desvia ou morre!"
 align = 1
 autowrap = true
@@ -48,7 +52,8 @@ anchor_top = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
 margin_top = -20.0
-custom_fonts/font = SubResource( 4 )
+custom_fonts/font = SubResource( 5 )
+custom_colors/font_color = Color( 0.129412, 0.129412, 0.129412, 1 )
 text = "Jogo desenvolvido por HsGDev"
 align = 1
 autowrap = true
@@ -61,13 +66,17 @@ anchor_left = 0.5
 anchor_top = 1.0
 anchor_right = 0.5
 anchor_bottom = 1.0
-margin_left = -90.0
+margin_left = -104.0
 margin_top = -200.0
-margin_right = 90.0
+margin_right = 104.0
 margin_bottom = -100.0
 custom_fonts/font = SubResource( 1 )
-shortcut = SubResource( 3 )
-text = "Start"
+custom_colors/font_color_disabled = Color( 0.521569, 0.521569, 0.521569, 1 )
+custom_colors/font_color = Color( 0.619476, 0.748047, 0.62893, 1 )
+custom_colors/font_color_hover = Color( 0.32549, 0.592157, 0.345098, 1 )
+shortcut = SubResource( 4 )
+text = "Iniciar"
+flat = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
