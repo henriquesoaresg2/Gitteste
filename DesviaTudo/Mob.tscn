@@ -1,24 +1,18 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Mob.gd" type="Script" id=1]
-[ext_resource path="res://dodge_assets/art/ManWalking/sprite_5.png" type="Texture" id=8]
-[ext_resource path="res://dodge_assets/art/ManWalking/sprite_4.png" type="Texture" id=9]
-[ext_resource path="res://dodge_assets/art/ManWalking/sprite_1.png" type="Texture" id=10]
-[ext_resource path="res://dodge_assets/art/ManWalking/sprite_2.png" type="Texture" id=11]
-[ext_resource path="res://dodge_assets/art/ManWalking/sprite_0.png" type="Texture" id=12]
-[ext_resource path="res://dodge_assets/art/ManWalking/sprite_3.png" type="Texture" id=13]
+[ext_resource path="res://dodge_assets/art/BombaEspinhos.png" type="Texture" id=2]
 
 [sub_resource type="SpriteFrames" id=1]
 animations = [ {
-"frames": [ ExtResource( 12 ), ExtResource( 10 ), ExtResource( 11 ), ExtResource( 13 ), ExtResource( 9 ), ExtResource( 8 ) ],
+"frames": [ ExtResource( 2 ) ],
 "loop": true,
-"name": "man",
-"speed": 7.0
+"name": "spikebomb",
+"speed": 5.0
 } ]
 
-[sub_resource type="CapsuleShape2D" id=2]
-radius = 21.6788
-height = 13.7399
+[sub_resource type="CircleShape2D" id=2]
+radius = 17.7111
 
 [node name="Mob" type="RigidBody2D" groups=[
 "mobs",
@@ -31,15 +25,13 @@ __meta__ = {
 }
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
-scale = Vector2( 0.75, 0.75 )
+scale = Vector2( 2, 2 )
 frames = SubResource( 1 )
-animation = "man"
-frame = 2
+animation = "spikebomb"
 playing = true
 flip_h = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( 0, -7 )
 shape = SubResource( 2 )
 
 [node name="VisibilityNotifier2D" type="VisibilityNotifier2D" parent="."]
