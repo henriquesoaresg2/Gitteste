@@ -1,0 +1,91 @@
+[gd_scene load_steps=24 format=2]
+
+[ext_resource path="res://dodge_assets/art/man/sprite_20.png" type="Texture" id=1]
+[ext_resource path="res://dodge_assets/art/salsicha/sprite_0.png" type="Texture" id=2]
+[ext_resource path="res://dodge_assets/art/salsicha/sprite_1.png" type="Texture" id=3]
+[ext_resource path="res://dodge_assets/art/man/sprite_12.png" type="Texture" id=4]
+[ext_resource path="res://Player.gd" type="Script" id=5]
+[ext_resource path="res://dodge_assets/art/man/sprite_15.png" type="Texture" id=6]
+[ext_resource path="res://dodge_assets/art/man/sprite_11.png" type="Texture" id=7]
+[ext_resource path="res://dodge_assets/art/man/sprite_21.png" type="Texture" id=8]
+[ext_resource path="res://dodge_assets/art/man/sprite_00.png" type="Texture" id=9]
+[ext_resource path="res://dodge_assets/art/man/sprite_01.png" type="Texture" id=10]
+[ext_resource path="res://dodge_assets/art/man/sprite_22.png" type="Texture" id=11]
+[ext_resource path="res://dodge_assets/art/man/sprite_10.png" type="Texture" id=12]
+[ext_resource path="res://dodge_assets/art/man/sprite_13.png" type="Texture" id=13]
+[ext_resource path="res://dodge_assets/art/man/sprite_14.png" type="Texture" id=14]
+[ext_resource path="res://dodge_assets/art/man/sprite_23.png" type="Texture" id=15]
+[ext_resource path="res://dodge_assets/art/man/sprite_08.png" type="Texture" id=16]
+[ext_resource path="res://dodge_assets/art/man/sprite_09.png" type="Texture" id=17]
+[ext_resource path="res://dodge_assets/art/salsicha/sprite_2.png" type="Texture" id=18]
+[ext_resource path="res://dodge_assets/art/salsicha/sprite_4.png" type="Texture" id=19]
+[ext_resource path="res://dodge_assets/art/salsicha/sprite_3.png" type="Texture" id=20]
+[ext_resource path="res://dodge_assets/art/salsicha/sprite_5.png" type="Texture" id=21]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 4 ), ExtResource( 13 ), ExtResource( 14 ), ExtResource( 6 ) ],
+"loop": true,
+"name": "man_up",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 2 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "salsicha_down",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 2 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "salsicha_idle",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 9 ), ExtResource( 10 ) ],
+"loop": true,
+"name": "man_idle",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 1 ), ExtResource( 8 ), ExtResource( 11 ), ExtResource( 15 ) ],
+"loop": true,
+"name": "man_side",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 19 ), ExtResource( 21 ) ],
+"loop": true,
+"name": "salsicha_side",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 16 ), ExtResource( 17 ), ExtResource( 12 ), ExtResource( 7 ) ],
+"loop": true,
+"name": "man_down",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 18 ), ExtResource( 20 ) ],
+"loop": true,
+"name": "salsicha_up",
+"speed": 5.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=2]
+radius = 14.0223
+height = 39.1293
+
+[node name="Player" type="Area2D"]
+script = ExtResource( 5 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+scale = Vector2( 3, 3 )
+frames = SubResource( 1 )
+animation = "salsicha_idle"
+playing = true
+
+[node name="Collision_salsicha" type="CollisionShape2D" parent="."]
+position = Vector2( -3, 8.66629 )
+shape = SubResource( 2 )
+
+[node name="Collision_man" type="CollisionShape2D" parent="."]
+position = Vector2( 0, -3.33371 )
+shape = SubResource( 2 )
+[connection signal="body_entered" from="." to="." method="_on_Player_body_entered"]
