@@ -2,6 +2,8 @@ extends CanvasLayer
 
 signal start_game
 
+onready var player = get_node("/root/Main/Player")
+
 var tempo = Timer.new()
 
 func _ready():
@@ -14,7 +16,6 @@ func show_message(text):
 	$MessageTimer.start()
 
 func show_game_over():
-	$Hints.hide()
 	show_message("Game Over")
 	yield($MessageTimer, "timeout") # Espera ate terminar o contador do MessageTimer.
 	$Message.text = "Desvia ou\nmorre!"
@@ -29,15 +30,17 @@ func update_score(score):
 func _on_StartButton_pressed():
 	$StartButton.hide()
 	emit_signal("start_game")
-	$Hints.show()
-	_brilha_Message()
 
 func _on_MessageTimer_timeout():
 	$Message.hide()
 	$Credits.hide()
 
 func _brilha_Message():
-	tempo.start(1.5)
+	if player.is_visible():
+		tempo.start(1.5)
+	else:
+		tempo.paused
+		$Hints.hide()
 
 func _on_tempo_timeout():
 	if $Hints.is_visible():

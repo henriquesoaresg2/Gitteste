@@ -20,7 +20,9 @@ func new_game():
 	$StartTimer.start()
 	$HUD.update_score(score)
 	$HUD.show_message("Prepare-se!")
+	$HUD._brilha_Message()
 	$Music.play()
+	
 
 func _on_StartTimer_timeout():
 	$MobTimer.start()

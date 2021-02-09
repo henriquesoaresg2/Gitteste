@@ -13,17 +13,17 @@ font_data = ExtResource( 1 )
 outline_color = Color( 0, 0, 0, 1 )
 font_data = ExtResource( 1 )
 
-[sub_resource type="DynamicFont" id=5]
+[sub_resource type="DynamicFont" id=3]
 size = 20
 outline_size = 1
 outline_color = Color( 0, 0, 0, 1 )
 font_data = ExtResource( 1 )
 
-[sub_resource type="InputEventAction" id=6]
+[sub_resource type="InputEventAction" id=4]
 action = "ui_select"
 
-[sub_resource type="ShortCut" id=7]
-shortcut = SubResource( 6 )
+[sub_resource type="ShortCut" id=5]
+shortcut = SubResource( 4 )
 
 [node name="HUD" type="CanvasLayer"]
 script = ExtResource( 2 )
@@ -68,12 +68,13 @@ __meta__ = {
 }
 
 [node name="Hints" type="Label" parent="."]
+visible = false
 anchor_top = 1.0
 anchor_bottom = 1.0
 margin_left = 8.0
 margin_top = -72.0
 margin_right = 270.0
-custom_fonts/font = SubResource( 5 )
+custom_fonts/font = SubResource( 3 )
 text = "\"P\" muda personagem"
 valign = 1
 autowrap = true
@@ -94,7 +95,7 @@ custom_fonts/font = SubResource( 1 )
 custom_colors/font_color_disabled = Color( 0.521569, 0.521569, 0.521569, 1 )
 custom_colors/font_color = Color( 0.619476, 0.748047, 0.62893, 1 )
 custom_colors/font_color_hover = Color( 0.32549, 0.592157, 0.345098, 1 )
-shortcut = SubResource( 7 )
+shortcut = SubResource( 5 )
 text = "Iniciar"
 flat = true
 __meta__ = {
